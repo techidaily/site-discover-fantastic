@@ -1,7 +1,7 @@
 ---
 title: "Revealing the Hidden Consequences of Online Harassment: Proven Tactics to Combat Cyberbullying Effectively"
-date: 2024-09-27T18:06:24.403Z
-updated: 2024-09-30T00:04:39.239Z
+date: 2024-10-03T17:36:32.054Z
+updated: 2024-10-05T17:27:02.724Z
 tags:
   - product
   - antivirus
@@ -48,15 +48,42 @@ Only 61% of youth have their privacy protection enabled in their social media ac
 
 [Windows 10 Privacy Issues and Fix](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Types of Cyberbullying
 
 There are countless types of cyberbullying. Children receive threats online all the time.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Online Bashing
 
 One of the most common forms of cyberbullying is bashing. It often happens in message boards, posts, threads, and messaging apps. Teens often use these platforms to chat and discuss their school lives.
 
 Conversations and discussions can turn ugly fast. Offline harassment can spill over online. A group of bullies may target a vulnerable victim.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gossiping
 
@@ -67,13 +94,6 @@ The rapid exchange of information online can quickly lead to gossiping. False in
 Kids and teens also reveal a bit too much online. They pass personal and intimate information without much thought about privacy. Bullies will then use this to threaten the victim. Photos or videos which may be damaging to the victim’s reputation can spread. It may even affect the victim’s future such as academic opportunities and job potential.
 
 [10 Types of Hackers You Should Know](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Types of Cyberbullies
 
@@ -95,13 +115,6 @@ More insidious types of bullies are cybercriminals who aim to make a profit or e
 
 Revealing intimate photos and videos are often used to scare victims. Criminals will threaten to release the pictures and videos to the victims’ family and friends. They will often ask for payment. One such case is of Daniel Perry. The [Scottish teen took his own life after being blackmailed on Skype](http://www.telegraph.co.uk/news/uknews/crime/10245809/Teenager-commited-suicide-after-being-blackmailed-on-Skype.html).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Effects of Cyberbullying
 
 Cyberbullying, and bullying, in general, have short-term and lasting effects on both the victim and the bully. Identifying impacts, in the beginning, may be tough. However, children often show signs depending on the severity of the cyberbullying.
@@ -112,27 +125,26 @@ Children who are being bullied often show first signs of their overall academic 
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/kindergarten.png "kindergarten")
 
-Cyberbullying worsens the academic effects of bullying. Children and teens are known to use and various social media. In the past, they can escape attacks after school. However, social media encompasses most of their day. Dealing with cyberbullying affects their concentration and habits.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Cyberbullying worsens the academic effects of bullying. Children and teens are known to use and various social media. In the past, they can escape attacks after school. However, social media encompasses most of their day. Dealing with cyberbullying affects their concentration and habits.
 
 ### Physical and Mental Health
 
 Children’s mental and physical health is affected along with academic performance. Anxiety and depression are common effects of constant stress. Additionally, the increased feelings of sadness and loneliness further affect a child’s health.
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/03/girl-with-ponytails.png "girl-with-ponytails")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Physical health also suffers along with mental conditions. Parents often notice considerable changes in their child’s sleeping and eating habits. There is also a lack of interest in activities they used to enjoy.
 
@@ -144,16 +156,16 @@ Suicide is one of the leading cause of death among young people. There are about
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/03/man-on-a-chair-before-suicide-with-a-hanging-rope.png "man-on-a-chair-before-suicide-with-a-hanging-rope")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Being bullied and bullying also affects teen behavior towards alcoholism and drug use. Additionally, it can result in delinquent acts. It may include vandalism, abusive behavior, and even criminal activities.
 
 [Fake Tech Support Scams - How to Protect Yourself](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect your Kids from Cyberbullying
 
@@ -162,13 +174,6 @@ Protecting your child against cyberbullying becomes a necessity nowadays. The ef
 Constant communication is a critical element in protecting your child. They should be able to express themselves without fear or embarrassment freely. It will be challenging as only 1 in 10 children confides with their parents. However, the willingness of a child to open up to you makes it easy to see possible signs of bullying.
 
 Educating your child is also important. Technology is complicated to manage even for adults. Teach them how to protect themselves. It includes an understanding of privacy, security, and possible threats.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Privacy and Passwords
 
@@ -187,17 +192,17 @@ The earlier you catch signs of cyberbullying, the easier it is to stop. Tools, l
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2017/11/parents.png "parents")
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Look for Signs
@@ -213,6 +218,13 @@ It is essential to gather information if you suspect cyberbullying. You should r
 ## Final Thoughts
 
 Technology brings both innovation and responsibility. It is mostly a neutral entity which has the potential to be good or evil. As such, threats like cyberbullying continues without proper attention. It is essential to be sensitive to your child’s needs both offline and online.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -239,19 +251,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-understanding-your-earning-potential-youtubes-latest-rules/"><u>[New] Understanding Your Earning Potential - YouTube's Latest Rules</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevating-engagement-split-screen-tactics-on-social-media-platforms/"><u>[Updated] 2024 Approved Elevating Engagement Split Screen Tactics on Social Media Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-5-smart-ways-to-save-your-roblox-gaming-on-apple-computers-for-2024/"><u>[Updated] 5 Smart Ways to Save Your Roblox Gaming on Apple Computers for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1-ultimate-guide-shrinking-your-mp4-videos-without-losing-quality-using-top-free-tools/"><u>1. Ultimate Guide: Shrinking Your MP4 Videos Without Losing Quality Using Top Free Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-media-marketing-essential-ig-video-editors/"><u>2024 Approved Mastering Media Marketing Essential IG Video Editors</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband/"><u>2024 Approved Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1726026544939-gif/"><u>高解像度で素人向け動画をGIFに効果的に変換するためのステップバイステップガイド</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1726030372289-playdrm/"><u>効果的な手段でPlayDRMバイパス：技術ガイド</u></a></li>
-<li><a href="https://driver-install.techidaily.com/asus-firmware-upgrade-kit-for-windows-systems/"><u>Asus Firmware Upgrade Kit for Windows Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discovering-free-srt-excellence-our-top-8-picks/"><u>Discovering Free SRT Excellence Our Top 8 Picks</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1726028805113-mp4/"><u>MP4ビデオの水平反転手順と無料ツール</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1726029061238-mp4avi/"><u>MP4をAVIに高画質に変換するためのベストフリーソフト - 専門家がおすすめする方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essence-of-generative-ai-in-a-nutshell/"><u>The Essence of Generative AI in a Nutshell</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-framing-the-future-expert-tips-for-picture-perfection/"><u>[Updated] Framing the Future Expert Tips for Picture Perfection</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exploring-affordable-video-players-on-various-systems/"><u>[Updated] In 2024, Exploring Affordable Video Players on Various Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-in-game-recording-a-comprehensive-review/"><u>[Updated] In 2024, In-Game Recording A Comprehensive Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-tiktok-video-enhancement-with-zoom/"><u>[Updated] Mastering TikTok Video Enhancement with Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-free-mp3-skype-call-logger/"><u>[Updated] Ultimate Free MP3 Skype Call Logger</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-best-easy-to-use-software-for-aspiring-creators-to-produce-high-quality-music-videos-at-home/"><u>1. Best Easy-to-Use Software for Aspiring Creators to Produce High-Quality Music Videos at Home</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/fast-and-effortless-mp4-flv-format-switching-guide/"><u>Fast and Effortless MP4-FLV Format Switching Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-xiaomi-13t-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi 13T Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/quick-guide-displaying-your-android-screen-directly-onto-your-pc-monitor/"><u>Quick Guide: Displaying Your Android Screen Directly Onto Your PC Monitor</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/the-ultimate-methods-for-retrieving-deleted-photos-from-an-iphone-steps-and-tips-included/"><u>The Ultimate Methods for Retrieving Deleted Photos From an iPhone Steps and Tips Included.</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ultimate-step-by-step-tutorial-how-to-successfully-upload-videos-on-youtube/"><u>Ultimate Step-by-Step Tutorial: How to Successfully Upload Videos on YouTube</u></a></li>
 </ul></div>
 
