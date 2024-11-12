@@ -1,7 +1,7 @@
 ---
 title: Windows 7用外部HDDへの自動バックアップ手順
-date: 2024-10-24T17:07:03.071Z
-updated: 2024-10-28T17:30:52.746Z
+date: 2024-11-11T18:14:33.518Z
+updated: 2024-11-12T18:53:11.606Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4ba60d02434a07b91f944e872.jpg
@@ -43,18 +43,18 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -95,10 +95,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -119,19 +119,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -150,6 +137,13 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -163,13 +157,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -217,6 +204,19 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -238,6 +238,13 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -261,6 +268,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -269,21 +283,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -300,17 +300,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premium-platforms-converting-vids-for-the-bird/"><u>[New] Premium Platforms Converting Vids for the Bird</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-simplysnap-screen-shots-for-w10-users-for-2024/"><u>[Updated] SimplySnap Screen Shots for W10 Users for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/fixing-the-issue-of-continuous-auto-filling-of-your-c-drive-in-windows-server-2012-r2/"><u>Fixing the Issue of Continuous Auto-Filling of Your C Drive in Windows Server 2012 R2</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-toolkit-for-srt-format-mastery/"><u>In 2024, The Ultimate Toolkit for SRT Format Mastery</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/master-these-top-techniques-for-eliminating-iphone-silence-no-more-quiet-phones/"><u>Master These Top Techniques for Eliminating iPhone Silence – No More Quiet Phones!</u></a></li>
-<li><a href="https://win11.techidaily.com/pixelprecision-snag-9-tactics-to-reinstate-it/"><u>PixelPrecision Snag? 9 Tactics to Reinstate It</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/protect-your-pc-against-ransomware-essential-tips-and-strategies/"><u>Protect Your PC Against Ransomware: Essential Tips and Strategies</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-g310-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia G310 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/transform-your-snapshots-creating-videos-from-ios-live-photos/"><u>Transform Your Snapshots: Creating Videos From iOS Live Photos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/twitter-growth-hacks-secrets-to-expanding-your-social-reach-and-building-a-loyal-following/"><u>Twitter Growth Hacks: Secrets to Expanding Your Social Reach and Building a Loyal Following</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-deceitful-network-invitations-tips-on-spotting-fake-friend-requests/"><u>Unveiling Deceitful Network Invitations: Tips on Spotting Fake Friend Requests</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pros-picks-premium-10-windows-11-webcam-recorders-for-2024/"><u>[New] Pro's Picks Premium 10 Windows 11 Webcam Recorders for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elemental-aspects-in-crafting-tales-for-2024/"><u>[Updated] Elemental Aspects in Crafting Tales for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/5-effektive-techniken-zum-datentransfer-zwischen-zwei-computern-mit-windows-11-10-8-und-7/"><u>5 Effektive Techniken Zum Datentransfer Zwischen Zwei Computern Mit Windows 11, 10, 8 Und 7</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1728502525118-aomei-backupper/"><u>如何使用AOMEI Backupper進行無複雜性備份？買後功能指南</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/einrichtung-abgeschlossen-writer-feature-auf-standby-jetzt-integriert-in-windows-server/"><u>Einrichtung Abgeschlossen: Writer-Feature 'Auf Standby' Jetzt Integriert in Windows Server</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-assisted-quest-for-professional-fulfillment/"><u>GPT-Assisted Quest for Professional Fulfillment</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-in-playlist-distribution-youtube-guide-for-2024/"><u>Haste in Playlist Distribution YouTube Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 mini Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-picpinch-a-study-of-micro-recording-tools/"><u>In 2024, PicPinch A Study of Micro-Recording Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/migrating-samsung-user-data-seamlessly-into-the-new-windows-amo-system/"><u>Migrating Samsung User Data Seamlessly Into the New Windows Amo System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/podcasters-soundboard-10-incredible-places-to-find-your-opening-tune-for-2024/"><u>Podcaster's Soundboard 10 Incredible Places to Find Your Opening Tune for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/restore-missing-notes-on-your-iphone-8/"><u>Restore Missing Notes on Your iPhone 8</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/seamless-transition-switching-your-whatsapp-chat-history-from-one-iphone-device-to-another-without-using-icloud/"><u>Seamless Transition: Switching Your WhatsApp Chat History From One iPhone Device to Another Without Using iCloud</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-to-creating-a-comment-export-email-on-macos/"><u>Step-by-Step Guide to Creating a Comment Export Email on macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-cant-i-find-libxmllibxml2httpsenwikipediaorgwikilibxml-dll-solutions-inside/"><u>Why Can't I Find Libxml^[libxml2](https://en.wikipedia.org/wiki/LibXML) DLL? Solutions Inside</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-11-von-einem-flash-laufwerk-kopieren-und-bootbar-machen-schritt-fur-schritt-anleitung/"><u>Windows 11 Von Einem Flash-Laufwerk Kopieren Und Bootbar Machen - Schritt-Für-Schritt Anleitung</u></a></li>
 </ul></div>
 
