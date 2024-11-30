@@ -1,7 +1,7 @@
 ---
 title: "Suspicious Activity on Your Email: Identifying a Possible Hack and Resolving It in Four Simple Steps"
-date: 2024-11-08T17:38:43.700Z
-updated: 2024-11-12T18:21:21.915Z
+date: 2024-11-28T16:04:09.083Z
+updated: 2024-11-30T18:01:39.289Z
 tags:
   - product
   - antivirus
@@ -36,10 +36,19 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 thoughts on “Is my Gmail Hacked? How to Tell in 4 Steps”
 
 1. ![](https://secure.gravatar.com/avatar/898946564d0416e90cb78c698025054d?s=50&d=mm&r=g)  
 Cary R Corwin  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [April 5, 2019 at 11:30 pm](https://tools.techidaily.com/malwarefox/products/)  
 Hello,  
 My G-mail address [carycorwin@gmail.com](https://tools.techidaily.com/malwarefox/products/) is almost identical to someone who attempted to start a Facebook account on December 31, 2018\. That attempt was from the address [cary.corwin@gmail.com](https://tools.techidaily.com/malwarefox/products/) from the name listed as Tam Jittrapha.  
@@ -50,6 +59,11 @@ Cary Corwin
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/85929922e25d4bbc528a838420943841?s=50&d=mm&r=g)  
    Shawn Abraham  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    [April 9, 2019 at 11:17 am](https://tools.techidaily.com/malwarefox/products/)  
    Gmail doesn’t differentiate between dots in email address.  
    abc.xyz@gmail and abcxyz@gmail are one and the same thing.  
@@ -57,6 +71,11 @@ Cary Corwin
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 2. ![](https://secure.gravatar.com/avatar/a7e34905e8633b8a8dbc5d34c76fb738?s=50&d=mm&r=g)  
 Anna  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [November 18, 2021 at 1:35 am](https://tools.techidaily.com/malwarefox/products/)  
 This was a super helpful overview and now, looking in my settings, I see that Pop has been enabled on my account since 2004 (right now, it is 2021) — YIPES!  
 Similar to Cary Corwin’s question above, the email account I use is [firstname.lastname@gmail.com](https://tools.techidaily.com/malwarefox/products/). But I have reason to believe that firstnamemiddlenamelastname@gmail has been set up by someone else and I cannot access it. Is there a way for me to alert Google to this and/or otherwise get that email account shut down?  
@@ -68,10 +87,7 @@ Hi – this was very useful although Gmail is organised a bit differently now so
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -99,18 +115,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-decoding-monetization-how-much-creators-earn-per-ad-on-youtube-for-2024/"><u>[New] Decoding Monetization How Much Creators Earn Per Ad on YouTube for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-cyclings-finest-gaming-experiences/"><u>[New] In 2024, Cycling's Finest Gaming Experiences</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-edit-your-video-with-youtube-studio-editor/"><u>[Updated] 2024 Approved How to Edit Your Video with YouTube Studio Editor</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/comment-resoudre-lerreur-de-disque-dur-lacie-incompatible-avec-windows-11-guide-complet/"><u>Comment Résoudre L'Erreur De Disque Dur Lacie Incompatible Avec Windows 11 ? - Guide Complet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/create-powerful-biz-decks-with-no-cost-templates-for-2024/"><u>Create Powerful Biz Decks with No-Cost Templates for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/effizientes-binnen-auf-neu-clonieren-fur-windows-11-10-8-and-7-tufteln-mit-bootfunktion/"><u>Effizientes Binnen-Auf-Neu-Clonieren Für Windows 11, 10, 8 & 7: Tüfteln Mit Bootfunktion</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/glorious-galore-multilingual-freedom-fest/"><u>Glorious Galore: Multilingual Freedom Fest</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-to-replenish-missing-security-records-a-guide-for-windows-1110-users/"><u>How to Replenish Missing Security Records: A Guide for Windows 11/10 Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unmatched-camera-companions-for-top-tier-yi-4k-tech/"><u>In 2024, Unmatched Camera Companions for Top-Tier YI 4K Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-update-intels-suspension-of-the-thunder-bay-multi-chip-module-announced/"><u>Latest Update: Intel's Suspension of the Thunder Bay Multi-Chip Module Announced</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/simplified-reset-techniques-for-your-samsung-t7-drive-with-one-simple-solution/"><u>Simplified Reset Techniques for Your Samsung T7 Drive with One Simple Solution</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-drivers-dossier-a-compilation-of-unmatched-autos-and-engineering-books-for-the-year-2024/"><u>The Driver's Dossier – A Compilation Of Unmatched Autos and Engineering Books for the Year 2024!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-free-ae-template-packs-for-amateurs-for-2024/"><u>Top FREE AE Template Packs for Amateurs for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-your-vlogging-journey-starts-here-essentials/"><u>[New] In 2024, Your Vlogging Journey Starts Here Essentials</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-down-barriers-adding-chapters-to-create-cohesive-youtube-lessons/"><u>[Updated] 2024 Approved Breaking Down Barriers Adding Chapters to Create Cohesive YouTube Lessons</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>2024 Approved Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-81-iso-windows-1110/"><u>如何從 Windows 8.1 或更早版本利用 ISO 制作 Windows 11/10 系統鏡像 - 详解</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/download-of-youtube-preview-pictures-for-2024/"><u>Easy Download of YouTube Preview Pictures for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/how-to-perform-a-full-system-restore-on-your-iphone-15-14-13-or-12/"><u>How to Perform a Full System Restore on Your iPhone 15, 14, 13, or 12</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-edge-40-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Edge 40 Pro Devices</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/how-to-transfer-the-boot-sector-from-one-hard-drive-to-a-new-disk-on-windows-7-a-three-step-guide/"><u>How to Transfer the Boot Sector From One Hard Drive to a New Disk on Windows 7: A Three-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-poco-x5-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Poco X5 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-ipod-video-compatibility-essential-info-for-optimal-viewing-experience/"><u>Mastering iPod Video Compatibility: Essential Info for Optimal Viewing Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-volume-in-windows-10-easy-remedies-to-turn-up-the-sound/"><u>No Volume in Windows 10? Easy Remedies to Turn Up the Sound</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/potential-pitfalls-of-purchasing-a-dvr-consider-these/"><u>Potential Pitfalls of Purchasing a DVR? Consider These!</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/seamless-ssd-upgrade-with-existing-windows-installation-cloning-your-hard-drive-guide/"><u>Seamless SSD Upgrade with Existing Windows Installation - Cloning Your Hard Drive Guide</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/three-effective-techniques-for-preserving-your-sticky-notes-on-windows-11/"><u>Three Effective Techniques for Preserving Your Sticky Notes on Windows 11</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/top-rated-tools-for-automatic-file-synchronization-in-real-time/"><u>Top Rated Tools for Automatic File Synchronization in Real Time</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/tpmwindows-117/"><u>TPMの設定を開始する：Windows 11で探せ、7つの解決策</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-guide-for-windows-error-code-0x86000011-proven-fixes/"><u>Troubleshooting Guide for Windows Error Code 0X86000011: Proven Fixes</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/two-step-tutorial-for-fixing-the-efi-drive-in-windows-11/"><u>Two-Step Tutorial for Fixing the EFI Drive in Windows 11</u></a></li>
 </ul></div>
 
