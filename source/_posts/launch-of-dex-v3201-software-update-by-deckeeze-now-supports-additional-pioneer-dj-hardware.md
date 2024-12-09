@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.1 Software Update by Deckeeze | Now Supports Additional Pioneer DJ Hardware
-date: 2024-11-23T17:48:56.335Z
-updated: 2024-11-30T18:38:24.256Z
+date: 2024-12-03T23:04:50.835Z
+updated: 2024-12-09T00:01:51.868Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ If you already use a Pioneer DJ controller or plan on purchasing one in the near
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20.1
@@ -50,7 +50,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.1 version of our **Best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,21 +72,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/03/Pioneer-DJ-Controllers-DEX
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-free-vfx-resources-online/"><u>[New] Explore the Best FREE VFX Resources Online</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-instagram-reel-playbook/"><u>[Updated] 2024 Approved The Ultimate Instagram Reel Playbook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-lost-phone-information-expert-tips-for-android-enthusiasts/"><u>Discovering Lost Phone Information: Expert Tips for Android Enthusiasts</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/guide-pour-corriger-les-difficultes-du-lancer-dun-systeme-par-sccm-a-laide-de-pxe/"><u>Guide Pour Corriger Les Difficultés Du Lancer D'Un Systeme Par SCCM À L'aide De PXE</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-13-ultra-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi 13 Ultra Phone? Unlock It Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintaining-veracity-in-ai-replies-employing-six-strategic-techniques/"><u>Maintaining Veracity in AI Replies: Employing Six Strategic Techniques</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/ntbackup-un-compendio-de-la-herramienta-para-respaldo-en-windows-y-su-uso-efectivo/"><u>NTBackup: Un Compendio De La Herramienta Para Respaldo en Windows Y Su Uso Efectivo</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/secure-your-data-with-safe-windows-11-saving-and-restoration-techniques/"><u>Secure Your Data with Safe Windows 11 Saving and Restoration Techniques</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/techniques-for-auto-optimizing-storage-on-windows-10-backups/"><u>Techniques for Auto-Optimizing Storage on Windows 10 Backups?</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/verstandnis-der-auswirkungen-von-ios-updates-auf-ipad-und-iphone-wenn-ihr-gerat-eingeschlossen-wird-warum/"><u>Verständnis Der Auswirkungen Von iOS Updates Auf iPad Und iPhone - Wenn Ihr Gerät Eingeschlossen Wird, Warum?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ssentials-unlocked-top-8-sites-for-free-high-quality-green-screen-imagery/"><u>VFX Essentials Unlocked Top 8 Sites for FREE High-Quality Green Screen Imagery</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728468611659-windows-7/"><u>Windows 7 ごみ箱で削除されたファイルを自由に回復する手順</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728481533076-office-365/"><u>マージメールが使えないOffice 365における対処ステップ</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-precious-chrome-companion-ringtones/"><u>[New] Precious Chrome Companion Ringtones</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1-tutoriel-complet-guide-depannage-facile-pour-restaurer-les-fichiers-accidentellement-supprimes-sous-windows-sans-cout/"><u>1. [Tutoriel Complet] : Guide Dépannage Facile Pour Restaurer Les Fichiers Accidentellement Supprimés Sous Windows Sans Coût</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/big-announcement-new-pocket-songs-collection-just-unlocked-for-subscribers-of-party-tyme-karaoke-service-pcdj/"><u>Big Announcement: New 'Pocket Songs' Collection Just Unlocked for Subscribers of Party Tyme Karaoke Service | PCDJ</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficiently-tackle-wudfhostexe-high-resource-drain-on-windows-11-devices/"><u>Efficiently Tackle wudfhost.exe High Resource Drain on Windows 11 Devices</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/enable-and-optimize-sound-on-your-pc-with-yls-essential-guidance-for-windows-users/"><u>Enable and Optimize Sound on Your PC with YL's Essential Guidance for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experiencing-the-apple-studio-display-a-tale-of-elegance-and-expense-for-mac-enthusiasts-unveiled-by-digitalgearreviews/"><u>Experiencing the Apple Studio Display: A Tale of Elegance & Expense for Mac Enthusiasts – Unveiled by DigitalGearReviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggle-generators-online-for-2024/"><u>Giggle Generators Online for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-refreshing-microsoft-mouse-software-for-windows-systems/"><u>Guide: Refreshing Microsoft Mouse Software for Windows Systems</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/innovating-learning-paths-exploring-the-intersection-of-blockchain-and-ai-in-modern-edtech-by-frobots-yls-latest-breakthrough/"><u>Innovating Learning Paths: Exploring the Intersection of Blockchain and AI in Modern EdTech by Frobots, YL's Latest Breakthrough</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/mastering-personalization-in-yl-software-changing-your-account-preferences-with-ease/"><u>Mastering Personalization in YL Software: Changing Your Account Preferences with Ease</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/solving-common-printer-problems-in-windows-11-with-ease-expert-advice-from-yl-software-specialists/"><u>Solving Common Printer Problems in Windows 11 with Ease: Expert Advice From YL Software Specialists</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-changing-windows-display-preferences-in-the-control-panel-with-insights-by-yl-software/"><u>Step-by-Step: Changing Window's Display Preferences in the Control Panel with Insights by YL Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/swiftly-convert-creepy-slow-videos-with-best-apps-for-2024/"><u>Swiftly Convert Creepy-Slow Videos with Best Apps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syncing-voice-with-images-online-for-2024/"><u>Syncing Voice with Images Online for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-unrecognized-hardware-how-to-fix-when-your-pc-ignores-new-devices-tips-by-yl-technologies/"><u>Troubleshooting Unrecognized Hardware: How to Fix When Your PC Ignores New Devices - Tips by YL Technologies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-walkthrough-for-linking-playstation-vr-with-your-personal-computer/"><u>Ultimate Walkthrough for Linking PlayStation VR with Your Personal Computer</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/why-saving-on-a-dj-pc-can-cost-you-insights-into-quality-vs-price-for-professional-equipment/"><u>Why Saving on a DJ PC Can Cost You: Insights Into Quality vs Price for Professional Equipment</u></a></li>
 </ul></div>
 
