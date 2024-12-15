@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.1 Software Update by Deckeeze | Now Supports Additional Pioneer DJ Hardware
-date: 2024-12-03T23:04:50.835Z
-updated: 2024-12-09T00:01:51.868Z
+date: 2024-12-14T00:44:08.723Z
+updated: 2024-12-15T00:18:11.517Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ If you already use a Pioneer DJ controller or plan on purchasing one in the near
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20.1
@@ -50,7 +50,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.1 version of our **Best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,22 +72,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/03/Pioneer-DJ-Controllers-DEX
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-precious-chrome-companion-ringtones/"><u>[New] Precious Chrome Companion Ringtones</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1-tutoriel-complet-guide-depannage-facile-pour-restaurer-les-fichiers-accidentellement-supprimes-sous-windows-sans-cout/"><u>1. [Tutoriel Complet] : Guide Dépannage Facile Pour Restaurer Les Fichiers Accidentellement Supprimés Sous Windows Sans Coût</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/big-announcement-new-pocket-songs-collection-just-unlocked-for-subscribers-of-party-tyme-karaoke-service-pcdj/"><u>Big Announcement: New 'Pocket Songs' Collection Just Unlocked for Subscribers of Party Tyme Karaoke Service | PCDJ</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficiently-tackle-wudfhostexe-high-resource-drain-on-windows-11-devices/"><u>Efficiently Tackle wudfhost.exe High Resource Drain on Windows 11 Devices</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/enable-and-optimize-sound-on-your-pc-with-yls-essential-guidance-for-windows-users/"><u>Enable and Optimize Sound on Your PC with YL's Essential Guidance for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experiencing-the-apple-studio-display-a-tale-of-elegance-and-expense-for-mac-enthusiasts-unveiled-by-digitalgearreviews/"><u>Experiencing the Apple Studio Display: A Tale of Elegance & Expense for Mac Enthusiasts – Unveiled by DigitalGearReviews</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giggle-generators-online-for-2024/"><u>Giggle Generators Online for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-refreshing-microsoft-mouse-software-for-windows-systems/"><u>Guide: Refreshing Microsoft Mouse Software for Windows Systems</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/innovating-learning-paths-exploring-the-intersection-of-blockchain-and-ai-in-modern-edtech-by-frobots-yls-latest-breakthrough/"><u>Innovating Learning Paths: Exploring the Intersection of Blockchain and AI in Modern EdTech by Frobots, YL's Latest Breakthrough</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/mastering-personalization-in-yl-software-changing-your-account-preferences-with-ease/"><u>Mastering Personalization in YL Software: Changing Your Account Preferences with Ease</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/solving-common-printer-problems-in-windows-11-with-ease-expert-advice-from-yl-software-specialists/"><u>Solving Common Printer Problems in Windows 11 with Ease: Expert Advice From YL Software Specialists</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-changing-windows-display-preferences-in-the-control-panel-with-insights-by-yl-software/"><u>Step-by-Step: Changing Window's Display Preferences in the Control Panel with Insights by YL Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/swiftly-convert-creepy-slow-videos-with-best-apps-for-2024/"><u>Swiftly Convert Creepy-Slow Videos with Best Apps for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/syncing-voice-with-images-online-for-2024/"><u>Syncing Voice with Images Online for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-unrecognized-hardware-how-to-fix-when-your-pc-ignores-new-devices-tips-by-yl-technologies/"><u>Troubleshooting Unrecognized Hardware: How to Fix When Your PC Ignores New Devices - Tips by YL Technologies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-walkthrough-for-linking-playstation-vr-with-your-personal-computer/"><u>Ultimate Walkthrough for Linking PlayStation VR with Your Personal Computer</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/why-saving-on-a-dj-pc-can-cost-you-insights-into-quality-vs-price-for-professional-equipment/"><u>Why Saving on a DJ PC Can Cost You: Insights Into Quality vs Price for Professional Equipment</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>[New] 2024 Approved Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-prime-selection-of-streaming-services-explored-for-2024/"><u>[Updated] Prime Selection of Streaming Services Explored for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-the-impact-of-chinas-open-door-policy-on-its-national-economic-growth-an-in-depth-analysis-by-yl-computing-and-yl-software/"><u>1. The Impact of China's Open Door Policy on Its National Economic Growth: An In-Depth Analysis by YL Computing and YL Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-maximize-your-sims-legacy-top-techniques-for-capturing-sims-4-adventures/"><u>2024 Approved Maximize Your Sim's Legacy Top Techniques for Capturing Sims 4 Adventures</u></a></li>
+<li><a href="https://solve-info.techidaily.com/aomei-backupperoutlook/"><u>AOMEI Backupperを使ってOutlookメールファイルを安全に保存する手順</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/exploring-practical-applications-of-cryptocurrency-insights-from-yl-computing-and-software-solutions/"><u>Exploring Practical Applications of Cryptocurrency: Insights From YL Computing and Software Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials/"><u>Full Spectrum Analysis Unpacking XStudio Video Workshop Essentials</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-x50i-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor X50i to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-how-to-safely-clear-dust-out-of-pc-cases-with-yl-software-tips/"><u>Step-by-Step Guide: How to Safely Clear Dust Out of PC Cases with YL Software Tips</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/steps-to-updating-your-graphics-drivers-expert-guide-yl-computing/"><u>Steps to Updating Your Graphics Drivers: Expert Guide - YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-gopro-camera-showdown-for-2024/"><u>The Ultimate GoPro Camera Showdown for 2024</u></a></li>
 </ul></div>
 

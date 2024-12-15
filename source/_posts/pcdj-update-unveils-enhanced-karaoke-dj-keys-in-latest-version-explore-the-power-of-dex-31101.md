@@ -1,7 +1,7 @@
 ---
 title: PCDJ Update Unveils Enhanced Karaoke DJ Keys in Latest Version - Explore the Power of DEX 3.11.0.1
-date: 2024-12-05T00:33:01.383Z
-updated: 2024-12-08T21:33:14.471Z
+date: 2024-12-07T16:49:35.419Z
+updated: 2024-12-14T17:24:51.852Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,20 +67,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-minecraft-black-screen-issue-2024-tips/"><u>[SOLVED] Minecraft Black Screen Issue – 2024 Tips</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1-solving-graphics-card-troubles-a-step-by-step-guide-by-yl-computing-yl-software/"><u>1. Solving Graphics Card Troubles: A Step-by-Step Guide by YL Computing - YL Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>2024 Approved Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/detaillierte-installationsanleitung-fur-windows-server-2e-ein-leitfaden-mit-einzelnen-schritten/"><u>Detaillierte Installationsanleitung Für Windows Server 2E: Ein Leitfaden Mit Einzelnen Schritten</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-unparalleled-sound-immersion-with-gaming-speakers-now-65-off-at-amazon-exclusive-review-from-zdnet/"><u>Discover Unparalleled Sound Immersion with Gaming Speakers Now 65% Off at Amazon – Exclusive Review From ZDNet!</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/efficient-strategies-for-handling-usersgroups-in-yl-software-by-yl-computing/"><u>Efficient Strategies for Handling Users/Groups in YL Software by YL Computing</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/enhance-your-screens-with-yl-softwares-high-definition-black-widow-wallpaper-series/"><u>Enhance Your Screens with YL Software's High-Definition Black Widow Wallpaper Series</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicating-windows-update-problems-the-0x800736cc-way/"><u>Eradicating Windows Update Problems: The 0X800736CC Way</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/graphics-card-malfunction-solutions-expert-advice-from-yl-computing-and-yl-software-for-optimal-fixes/"><u>Graphics Card Malfunction Solutions: Expert Advice From YL Computing & YL Software for Optimal Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-your-wi-fis-presence-handling-network-invisibility/"><u>How to Restore Your Wi-Fi's Presence: Handling Network Invisibility</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-g24-power-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola G24 Power to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-level-strategies-to-purge-backgrounds-in-figma/"><u>In 2024, Pro-Level Strategies to Purge Backgrounds in Figma</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-overclocking-milestone-rtx-3nce-3080-smashes-speed-limit-at-234ghz/"><u>New Overclocking Milestone: RTX 3Nce 3080 Smashes Speed Limit at 2.34GHz!</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/resolving-unwanted-noise-issues-with-your-pcs-sound-card-expert-advice-by-yl-software-team/"><u>Resolving Unwanted Noise Issues with Your PC's Sound Card - Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/trouble-free-guide-solving-common-issues-with-windows-updates-tips-by-yl-computing/"><u>Trouble-Free Guide: Solving Common Issues with Windows Updates - Tips by YL Computing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-building-through-characters-and-plot-twists/"><u>[New] 2024 Approved Channel-Building Through Characters and Plot Twists</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-steps-for-installing-the-newest-epson-ds-510-driver-on-a-pc/"><u>Comprehensive Steps for Installing the Newest Epson DS-510 Driver on a PC</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/developing-virtual-replicas-building-digital-twins-via-bsv-blockchain-technology-by-trace-and-yl-computing/"><u>Developing Virtual Replicas: Building Digital Twins via BSV Blockchain Technology by Trace & YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-edge-40-neo-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Edge 40 Neo Pattern Lock Screen</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/optimal-strategies-for-safeguarding-your-essential-documents-a-guide-from-yl-computings-expertise/"><u>Optimal Strategies for Safeguarding Your Essential Documents: A Guide From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamlining-epson-communication-a-step-by-step-approach/"><u>Streamlining Epson Communication: A Step-by-Step Approach</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/understanding-and-fixing-muffled-sounds-from-your-computer-tips-by-yl-computing/"><u>Understanding and Fixing Muffled Sounds From Your Computer - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/unlock-peak-performance-on-your-computer-with-pro-tips-insights-by-yl-technology-experts/"><u>Unlock Peak Performance on Your Computer with Pro Tips - Insights by YL Technology Experts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-13-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 13 Without iTunes in 5 Ways</u></a></li>
 </ul></div>
 

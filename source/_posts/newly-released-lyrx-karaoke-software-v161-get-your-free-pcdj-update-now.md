@@ -1,7 +1,7 @@
 ---
 title: "Newly Released: LYRX Karaoke Software v1.6.1 - Get Your FREE PCDJ Update Now!"
-date: 2024-12-06T16:19:04.023Z
-updated: 2024-12-08T21:18:45.129Z
+date: 2024-12-07T16:56:28.583Z
+updated: 2024-12-15T00:50:21.840Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,18 +69,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-list-of-trending-instagram-hashtags-for-success-for-2024/"><u>[New] The Ultimate List of Trending Instagram Hashtags for Success for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-revolutionizing-audio-documentation-the-art-of-call-recording/"><u>[Updated] 2024 Approved Revolutionizing Audio Documentation The Art of Call Recording</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/best-fixes-and-advice-overcome-obs-mic-problems/"><u>Best Fixes and Advice: Overcome OBS Mic Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bid-farewell-to-audio-glitches-a-solution-for-intermittent-sounds-on-windows-1/"><u>Bid Farewell to Audio Glitches: A Solution for Intermittent Sounds on Windows 지난 1</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/download-the-hottest-edm-tracks-from-the-video-pools-top-charted-music-videos/"><u>Download the Hottest EDM Tracks From The Video Pool's Top Charted Music Videos</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/expand-your-dj-library-with-the-latest-25plus-karaoke-tracks-updated-june-10-2022/"><u>Expand Your DJ Library with the Latest 25+ Karaoke Tracks - Updated June 10, 2022!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-googles-communication-tool-the-evolution-of-google-hangouts/"><u>Exploring Google's Communication Tool: The Evolution of Google Hangouts</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/finding-and-opening-the-registry-editor-from-windows-control-panel-expert-guide/"><u>Finding and Opening the Registry Editor From Windows Control Panel - Expert Guide</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/get-exclusive-access-to-landrd-for-free-elevate-your-mixes-on-pcdj-before-time-runs-out/"><u>Get Exclusive Access to Landrd for Free – Elevate Your Mixes on PCdj Before Time Runs Out!</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/navigating-crypto-advancements-expert-tips-from-yl-solutions-on-remaining-informed/"><u>Navigating Crypto Advancements: Expert Tips From YL Solutions on Remaining Informed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/precision-in-upload-a-deep-dive-into-youtube-video-size-settings-for-2024/"><u>Precision in Upload A Deep-Dive Into YouTube Video Size Settings for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/twitch-time-rewind-hacks-unveiled-for-2024/"><u>Twitch Time Rewind Hacks Unveiled for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/yl-software-presents-high-quality-hyuna-table-tennis-imagery-and-desktop-scenes/"><u>YL Software Presents: High-Quality Hyuna Table Tennis Imagery and Desktop Scenes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-zero-price-picture-frame-media-for-2024/"><u>[Updated] Exploring Zero-Price Picture Frame Media for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfecting-time-lapse-videos-on-a-gopro-hero5-black/"><u>[Updated] Perfecting Time-Lapse Videos on a GoPro Hero5 Black</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/adjusting-your-screen-display-via-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Adjusting Your Screen Display via Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/delving-deep-into-ios-video-recording-capabilities/"><u>Delving Deep Into IO's Video Recording Capabilities</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/effective-techniques-for-identifying-and-fixing-memory-errors-in-pcs-by-yl-software/"><u>Effective Techniques for Identifying and Fixing Memory Errors in PCs by YL Software</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/exploring-file-attributes-a-comprehensive-guide-learn-with-yl-computings-expert-tutorial/"><u>Exploring File Attributes: A Comprehensive Guide - Learn with YL Computing's Expert Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-new-drivers-on-a-dell-optiplex-n7010-system-download-and-update-guide/"><u>How to Install New Drivers on a Dell OptiPlex N7010 System: Download and Update Guide</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/most-effective-strategies-for-repairing-computer-hardware-malfunctions-insights-from-yl-computing-experts/"><u>Most Effective Strategies for Repairing Computer Hardware Malfunctions - Insights From YL Computing Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sonic-sequencing-for-improved-imovie-projects/"><u>Sonic Sequencing for Improved iMovie Projects</u></a></li>
 </ul></div>
 
