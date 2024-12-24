@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.1 Software Update by Deckeeze | Now Supports Additional Pioneer DJ Hardware
-date: 2024-12-14T00:44:08.723Z
-updated: 2024-12-15T00:18:11.517Z
+date: 2024-12-16T21:02:21.588Z
+updated: 2024-12-24T02:50:20.190Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ If you already use a Pioneer DJ controller or plan on purchasing one in the near
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20.1
@@ -50,7 +50,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.1 version of our **Best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,17 +72,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/03/Pioneer-DJ-Controllers-DEX
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>[New] 2024 Approved Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-prime-selection-of-streaming-services-explored-for-2024/"><u>[Updated] Prime Selection of Streaming Services Explored for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1-the-impact-of-chinas-open-door-policy-on-its-national-economic-growth-an-in-depth-analysis-by-yl-computing-and-yl-software/"><u>1. The Impact of China's Open Door Policy on Its National Economic Growth: An In-Depth Analysis by YL Computing and YL Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-maximize-your-sims-legacy-top-techniques-for-capturing-sims-4-adventures/"><u>2024 Approved Maximize Your Sim's Legacy Top Techniques for Capturing Sims 4 Adventures</u></a></li>
-<li><a href="https://solve-info.techidaily.com/aomei-backupperoutlook/"><u>AOMEI Backupperを使ってOutlookメールファイルを安全に保存する手順</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/exploring-practical-applications-of-cryptocurrency-insights-from-yl-computing-and-software-solutions/"><u>Exploring Practical Applications of Cryptocurrency: Insights From YL Computing and Software Solutions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials/"><u>Full Spectrum Analysis Unpacking XStudio Video Workshop Essentials</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-x50i-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor X50i to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-how-to-safely-clear-dust-out-of-pc-cases-with-yl-software-tips/"><u>Step-by-Step Guide: How to Safely Clear Dust Out of PC Cases with YL Software Tips</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/steps-to-updating-your-graphics-drivers-expert-guide-yl-computing/"><u>Steps to Updating Your Graphics Drivers: Expert Guide - YL Computing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-gopro-camera-showdown-for-2024/"><u>The Ultimate GoPro Camera Showdown for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-professional-thumbnail-tactics-dos-and-donts-guidebook-for-2024/"><u>[Updated] Professional Thumbnail Tactics Do's and Don'ts Guidebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-video-displays-the-best-5-for-playstation-5/"><u>2024 Approved Ideal Video Displays The Best 5 for PlayStation 5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-owning-your-sound-instagrams-ip-framework/"><u>2024 Approved Owning Your Sound Instagram's IP Framework</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comprehensive-guide-types-of-threats-blocked-by-windows-defender-insights-from-yl-computing/"><u>Comprehensive Guide: Types of Threats Blocked by Windows Defender - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/download-the-hottest-edm-tracks-from-the-video-pools-top-charted-music-videos/"><u>Download the Hottest EDM Tracks From The Video Pool's Top Charted Music Videos</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/expand-your-dj-library-with-the-latest-25plus-karaoke-tracks-updated-june-10-2022/"><u>Expand Your DJ Library with the Latest 25+ Karaoke Tracks - Updated June 10, 2022!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-guide-how-to-efficiently-convert-mp4-videos-into-divx-format-with-recommended-tools/"><u>Expert Guide: How to Efficiently Convert MP4 Videos Into DivX Format with Recommended Tools</u></a></li>
+<li><a href="https://win-best.techidaily.com/exploring-windows-control-panel-sections-for-optimal-system-management-insights-from-yl-solutions/"><u>Exploring Windows Control Panel Sections for Optimal System Management - Insights From YL Solutions</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/finding-and-opening-the-registry-editor-from-windows-control-panel-expert-guide/"><u>Finding and Opening the Registry Editor From Windows Control Panel - Expert Guide</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/how-to-keep-your-pc-running-smoothly-essential-strategies-yl-computing-blog/"><u>How to Keep Your PC Running Smoothly: Essential Strategies - YL Computing Blog</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-refined-zoom-sound-for-flawless-listening-experience/"><u>In 2024, Refined Zoom Sound for Flawless Listening Experience</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/navigating-crypto-advancements-expert-tips-from-yl-solutions-on-remaining-informed/"><u>Navigating Crypto Advancements: Expert Tips From YL Solutions on Remaining Informed</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-infinix-note-30-vip-racing-edition-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Note 30 VIP Racing Edition? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-this-black-friday-save-up-to-700-off-on-the-top-rated-dell-xps-15-laptop-shop-smart-with-zdnets-best-tech-specials/"><u>Score Big Savings This Black Friday! Save Up to $700 Off on the Top-Rated Dell XPS 15 Laptop | Shop Smart with ZDNet's Best Tech Specials!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/splitcam-review-is-it-the-best-video-recorder-in-2024/"><u>SplitCam Review Is It The Best Video Recorder, In 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/yl-software-presents-high-quality-hyuna-table-tennis-imagery-and-desktop-scenes/"><u>YL Software Presents: High-Quality Hyuna Table Tennis Imagery and Desktop Scenes</u></a></li>
 </ul></div>
 
