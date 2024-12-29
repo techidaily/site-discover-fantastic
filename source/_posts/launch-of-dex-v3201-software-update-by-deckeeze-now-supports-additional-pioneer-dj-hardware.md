@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.1 Software Update by Deckeeze | Now Supports Additional Pioneer DJ Hardware
-date: 2024-12-16T21:02:21.588Z
-updated: 2024-12-24T02:50:20.190Z
+date: 2024-12-22T18:11:30.162Z
+updated: 2024-12-29T17:01:26.168Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ If you already use a Pioneer DJ controller or plan on purchasing one in the near
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20.1
@@ -50,7 +50,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.1 version of our **Best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,21 +72,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/03/Pioneer-DJ-Controllers-DEX
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-professional-thumbnail-tactics-dos-and-donts-guidebook-for-2024/"><u>[Updated] Professional Thumbnail Tactics Do's and Don'ts Guidebook for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-video-displays-the-best-5-for-playstation-5/"><u>2024 Approved Ideal Video Displays The Best 5 for PlayStation 5</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-owning-your-sound-instagrams-ip-framework/"><u>2024 Approved Owning Your Sound Instagram's IP Framework</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/comprehensive-guide-types-of-threats-blocked-by-windows-defender-insights-from-yl-computing/"><u>Comprehensive Guide: Types of Threats Blocked by Windows Defender - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/download-the-hottest-edm-tracks-from-the-video-pools-top-charted-music-videos/"><u>Download the Hottest EDM Tracks From The Video Pool's Top Charted Music Videos</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/expand-your-dj-library-with-the-latest-25plus-karaoke-tracks-updated-june-10-2022/"><u>Expand Your DJ Library with the Latest 25+ Karaoke Tracks - Updated June 10, 2022!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-guide-how-to-efficiently-convert-mp4-videos-into-divx-format-with-recommended-tools/"><u>Expert Guide: How to Efficiently Convert MP4 Videos Into DivX Format with Recommended Tools</u></a></li>
-<li><a href="https://win-best.techidaily.com/exploring-windows-control-panel-sections-for-optimal-system-management-insights-from-yl-solutions/"><u>Exploring Windows Control Panel Sections for Optimal System Management - Insights From YL Solutions</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/finding-and-opening-the-registry-editor-from-windows-control-panel-expert-guide/"><u>Finding and Opening the Registry Editor From Windows Control Panel - Expert Guide</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-to-keep-your-pc-running-smoothly-essential-strategies-yl-computing-blog/"><u>How to Keep Your PC Running Smoothly: Essential Strategies - YL Computing Blog</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-refined-zoom-sound-for-flawless-listening-experience/"><u>In 2024, Refined Zoom Sound for Flawless Listening Experience</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/navigating-crypto-advancements-expert-tips-from-yl-solutions-on-remaining-informed/"><u>Navigating Crypto Advancements: Expert Tips From YL Solutions on Remaining Informed</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-infinix-note-30-vip-racing-edition-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Note 30 VIP Racing Edition? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-savings-this-black-friday-save-up-to-700-off-on-the-top-rated-dell-xps-15-laptop-shop-smart-with-zdnets-best-tech-specials/"><u>Score Big Savings This Black Friday! Save Up to $700 Off on the Top-Rated Dell XPS 15 Laptop | Shop Smart with ZDNet's Best Tech Specials!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/splitcam-review-is-it-the-best-video-recorder-in-2024/"><u>SplitCam Review Is It The Best Video Recorder, In 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/yl-software-presents-high-quality-hyuna-table-tennis-imagery-and-desktop-scenes/"><u>YL Software Presents: High-Quality Hyuna Table Tennis Imagery and Desktop Scenes</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/yl-computingu/"><u>修心明道御术：YL Computing致力于打造“U兄”，解开万亿孤独之路</u></a></li>
+<li><a href="https://fox-info.techidaily.com/clarityai-creatives-unleash-editing-potential-for-2024/"><u>ClarityAI Creatives Unleash Editing Potential for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/enhance-your-cybersecurity-top-features-to-complement-windows-defender-by-yl-software/"><u>Enhance Your Cybersecurity: Top Features to Complement Windows Defender by YL Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-htc-u23-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of HTC U23?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-fb-video-upload-pc-and-android-guide/"><u>In 2024, Mastering FB Video Upload PC & Android Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-time-taken-to-watch-an-example-of-a-20mb-video/"><u>In 2024, Time Taken to Watch An Example of a 20MB Video</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/perfecting-your-macs-storage-allocation-with-easy-steps/"><u>Perfecting Your Mac's Storage Allocation with Easy Steps</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-modifying-pc-audio-preferences-via-control-panel-tech-tips-by-yl-software/"><u>Step-by-Step Guide: Modifying PC Audio Preferences via Control Panel - Tech Tips by YL Software</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-sharing-files-between-users-on-your-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Sharing Files Between Users on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-discreet-gaming-talk-on-series-sx/"><u>The Art of Discreet Gaming Talk on Series S/X</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-enhancements-a-leap-forward-in-the-22h2-moment/"><u>Windows 11 Enhancements: A Leap Forward in the 22H2 Moment</u></a></li>
 </ul></div>
 

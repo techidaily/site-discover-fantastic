@@ -1,7 +1,7 @@
 ---
 title: "Newly Released: LYRX Karaoke Software v1.6.1 - Get Your FREE PCDJ Update Now!"
-date: 2024-12-22T18:41:45.359Z
-updated: 2024-12-23T22:42:46.150Z
+date: 2024-12-23T18:11:30.804Z
+updated: 2024-12-29T17:05:08.844Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,14 +69,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-fresh-ideas-to-talk-about-in-daily-vlogging/"><u>[New] In 2024, Fresh Ideas to Talk About in Daily Vlogging</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-step-by-step-process-to-create-impressive-gopro-timelapses/"><u>[Updated] In 2024, Step-by-Step Process to Create Impressive GoPro Timelapses</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-video-production-with-captivate-for-2024/"><u>[Updated] Navigating Video Production with Captivate for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/boost-your-pcs-performance-free-top-tips-and-tricks-by-yl-tech-solutions/"><u>Boost Your PC's Performance Free: Top Tips and Tricks - By YL Tech Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-steam-voice-chat-not-working/"><u>How To Fix Steam Voice Chat Not Working</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-quick-tunes-explore-video-music-characters/"><u>In 2024, Quick Tunes Explore Video Music Characters</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/top-trending-crypto-exchanges-an-in-depth-analysis-by-yl-computing-and-yl-software/"><u>Top Trending Crypto Exchanges: An In-Depth Analysis by YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/unveiling-the-start-date-of-the-great-chinese-cultural-shift-with-yl-software/"><u>Unveiling the Start Date of the Great Chinese Cultural Shift with YL Software</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/yl-software-showcases-premium-hd-background-graphics-featuring-singer-holly-valance/"><u>YL Software Showcases: Premium HD Background Graphics Featuring Singer Holly Valance</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-streamline-social-sharing-integrate-your-fb-story-for-2024/"><u>[New] Streamline Social Sharing Integrate Your FB Story for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-comprehensive-list-of-vimeo-downloader-utilities-for-2024/"><u>[Updated] Comprehensive List of Vimeo Downloader Utilities for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/cameras-absent-in-depth-analysis-of-the-new-generation-google-nest-hub/"><u>Cameras Absent: In-Depth Analysis of the New Generation Google Nest Hub</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/complete-insight-gopro-silver-hero4-detailed-assessment-for-2024/"><u>Complete Insight GoPro Silver Hero4 Detailed Assessment for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/discover-all-font-selection-features-in-control-panel-explore-yl-computings-solutions/"><u>Discover All Font Selection Features in Control Panel - Explore YL Computing's Solutions</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/discovering-the-control-panel-for-audio-configuration-essential-tips-from-yl-software-experts/"><u>Discovering the Control Panel for Audio Configuration: Essential Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-logitech-drivers-instantly-download-made-easy-for-windows-users/"><u>Get Logitech Drivers Instantly – Download Made Easy for Windows Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/understanding-file-recovery-does-windows-backup-include-previously-removed-documents/"><u>Understanding File Recovery: Does Windows Backup Include Previously Removed Documents?</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/unlimited-sing-along-explore-35-new-tracks-from-party-tymes-latest-dj-cd-for-your-ultimate-karaoke-experience/"><u>Unlimited Sing-Along: Explore 35 New Tracks From Party Tyme's Latest DJ CD for Your Ultimate Karaoke Experience!</u></a></li>
 </ul></div>
 
