@@ -1,7 +1,7 @@
 ---
 title: "Newly Released: LYRX Karaoke Software v1.6.1 - Get Your FREE PCDJ Update Now!"
-date: 2024-12-23T18:11:30.804Z
-updated: 2024-12-29T17:05:08.844Z
+date: 2025-01-07T21:10:15.020Z
+updated: 2025-01-09T02:40:20.277Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,15 +69,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-streamline-social-sharing-integrate-your-fb-story-for-2024/"><u>[New] Streamline Social Sharing Integrate Your FB Story for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-comprehensive-list-of-vimeo-downloader-utilities-for-2024/"><u>[Updated] Comprehensive List of Vimeo Downloader Utilities for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cameras-absent-in-depth-analysis-of-the-new-generation-google-nest-hub/"><u>Cameras Absent: In-Depth Analysis of the New Generation Google Nest Hub</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/complete-insight-gopro-silver-hero4-detailed-assessment-for-2024/"><u>Complete Insight GoPro Silver Hero4 Detailed Assessment for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/discover-all-font-selection-features-in-control-panel-explore-yl-computings-solutions/"><u>Discover All Font Selection Features in Control Panel - Explore YL Computing's Solutions</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/discovering-the-control-panel-for-audio-configuration-essential-tips-from-yl-software-experts/"><u>Discovering the Control Panel for Audio Configuration: Essential Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-logitech-drivers-instantly-download-made-easy-for-windows-users/"><u>Get Logitech Drivers Instantly – Download Made Easy for Windows Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/understanding-file-recovery-does-windows-backup-include-previously-removed-documents/"><u>Understanding File Recovery: Does Windows Backup Include Previously Removed Documents?</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/unlimited-sing-along-explore-35-new-tracks-from-party-tymes-latest-dj-cd-for-your-ultimate-karaoke-experience/"><u>Unlimited Sing-Along: Explore 35 New Tracks From Party Tyme's Latest DJ CD for Your Ultimate Karaoke Experience!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-advanced-zooming-methods-for-distance-communication-with-msteams/"><u>[New] Advanced Zooming Methods for Distance Communication with MSTEAMS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-powered-vision-and-sound-the-new-capabilities-of-the-google-assistant/"><u>AI-Powered Vision and Sound: The New Capabilities of the Google Assistant</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-working-logitech-g230-mic-a-step-by-step-guide/"><u>Effective Fixes for Non-Working Logitech G230 Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/effective-techniques-for-clearing-your-computers-hard-drive-expert-tips-from-yl-computing/"><u>Effective Techniques for Clearing Your Computer's Hard Drive - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-division-2-game-crashing-issue-simple-solutions/"><u>How to Fix the Division 2 Game Crashing Issue - Simple Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-130-music-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia 130 Music Through Google Earth?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue/"><u>In 2024, The Zen of Zoom Talk Top Strategies for Smooth Virtual Dialogue</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/karaoke-cloud-pro-update-unveils-new-karaoke-music-trivia-feature/"><u>Karaoke Cloud Pro Update Unveils New Karaoke Music Trivia Feature!</u></a></li>
+<li><a href="https://solve-news.techidaily.com/seamless-scan-and-convert-textbooksdocuments-to-pdf-using-iphones-finereader-app/"><u>Seamless Scan & Convert Textbooks/Documents to PDF Using iPhone's FINEREADER App</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/transforming-viewers-into-active-participants/"><u>Transforming Viewers Into Active Participants</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-pc-boot-issues-essential-guidance-by-yl-computing-and-yl-software-experts/"><u>Troubleshooting PC Boot Issues: Essential Guidance by YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-your-printers-spooler-guidance-by-yl-software/"><u>Troubleshooting Your Printer's Spooler - Guidance by YL Software</u></a></li>
 </ul></div>
 
