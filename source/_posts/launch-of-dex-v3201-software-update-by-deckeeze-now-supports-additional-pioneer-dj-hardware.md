@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.1 Software Update by Deckeeze | Now Supports Additional Pioneer DJ Hardware
-date: 2025-01-02T22:13:52.872Z
-updated: 2025-01-08T16:05:40.103Z
+date: 2025-01-10T17:14:23.086Z
+updated: 2025-01-14T21:39:43.550Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ If you already use a Pioneer DJ controller or plan on purchasing one in the near
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20.1
@@ -50,7 +50,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.1 version of our **Best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,17 +72,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/03/Pioneer-DJ-Controllers-DEX
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-screencapturegooglemeet-iphone-and-android-methods/"><u>[Updated] 2024 Approved ScreenCaptureGoogleMeet IPhone and Android Methods</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-things-about-youtube-tv-you-should-know/"><u>2024 Approved Things About YouTube TV You Should Know</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-budget-gaming-accessories-keyboards-and-mice-under-99-for-2024/"><u>Best Budget Gaming Accessories Keyboards & Mice Under $99 for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/comprehensive-guide-types-of-threats-blocked-by-windows-defender-insights-from-yl-computing/"><u>Comprehensive Guide: Types of Threats Blocked by Windows Defender - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/download-the-hottest-edm-tracks-from-the-video-pools-top-charted-music-videos/"><u>Download the Hottest EDM Tracks From The Video Pool's Top Charted Music Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-adobe-reader-setup-on-ms-store/"><u>Effortless Adobe Reader Setup on MS Store</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/expand-your-dj-library-with-the-latest-25plus-karaoke-tracks-updated-june-10-2022/"><u>Expand Your DJ Library with the Latest 25+ Karaoke Tracks - Updated June 10, 2022!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spearheading-progress-identifying-the-prime-5-ai-tools-for-creativity/"><u>Spearheading Progress: Identifying the Prime 5 AI Tools for Creativity</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/swift-playlist-dispatch-on-youtube/"><u>Swift Playlist Dispatch on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-installation-failure-in-discord-for-win-1011/"><u>Troubleshooting Installation Failure in Discord for Win 10/11</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/yl-software-presents-high-quality-hyuna-table-tennis-imagery-and-desktop-scenes/"><u>YL Software Presents: High-Quality Hyuna Table Tennis Imagery and Desktop Scenes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-critique-on-luminances-approach-to-hdr-creation/"><u>[New] 2024 Approved Critique on Luminance’s Approach to HDR Creation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-infiltrating-the-top-channels-in-youtube-space/"><u>[New] In 2024, Infiltrating the Top Channels in YouTube Space</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eb-integration-adding-youtube-playlists-easily/"><u>[New] Web Integration Adding YouTube Playlists Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm44og44os44ot6auy6kej5yop5bqm44kz44oz44og44oz44oe6kiy5oa25lplusd5oyb5oml6acg44oe44k544k44o844kv44op44k544cn/"><u>「テレビ高解像度コンテンツ記憶保持手順マスタークラス」</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1424562-9781780284408-celtic-wisdom/"><u>Celtic Wisdom | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-miss-out-pre-order-the-latest-apple-watch-series-ve-special-offers-and-guides-to-saving-money/"><u>Don't Miss Out! Pre-Order the Latest Apple Watch Series Ve Special Offers & Guides to Saving Money</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/graphics-card-malfunction-solutions-expert-advice-from-yl-computing-and-yl-software-for-optimal-fixes/"><u>Graphics Card Malfunction Solutions: Expert Advice From YL Computing & YL Software for Optimal Fixes</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/graphics-card-malfunction-solutions-step-by-step-repair-guide-pixelpatchers/"><u>Graphics Card Malfunction Solutions: Step-by-Step Repair Guide - PixelPatchers</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/navigating-potential-hazards-in-direct-registry-editing-expert-advice-by-yl-computing-and-software-solutions/"><u>Navigating Potential Hazards in Direct Registry Editing: Expert Advice by YL Computing and Software Solutions</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/pcdj-update-unveils-enhanced-karaoke-dj-keys-in-latest-version-explore-the-power-of-dex-31101/"><u>PCDJ Update Unveils Enhanced Karaoke DJ Keys in Latest Version - Explore the Power of DEX 3.11.0.1</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-instructions-for-taking-and-distributing-your-own-gameplay-snaps-on-nintendo-switch/"><u>Simple Instructions for Taking & Distributing Your Own Gameplay Snaps on Nintendo Switch</u></a></li>
+<li><a href="https://fox-making.techidaily.com/tausch-der-datentrager-wie-sie-das-erreichen-ohne-neu-zu-installieren/"><u>Tausch Der Datenträger: Wie Sie Das Erreichen, Ohne Neu Zu Installieren?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-disappearing-dark-mode-on-facebook-expert-tips-and-tricks/"><u>Troubleshooting Disappearing Dark Mode on Facebook: Expert Tips and Tricks</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-tips-for-restoring-damaged-device-drivers-with-help-from-yl-software-experts/"><u>Troubleshooting Tips for Restoring Damaged Device Drivers with Help From YL Software Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Newly Released: LYRX Karaoke Software v1.6.1 - Get Your FREE PCDJ Update Now!"
-date: 2025-01-07T21:10:15.020Z
-updated: 2025-01-09T02:40:20.277Z
+date: 2025-01-09T18:44:07.787Z
+updated: 2025-01-14T17:57:31.233Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,17 +69,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-advanced-zooming-methods-for-distance-communication-with-msteams/"><u>[New] Advanced Zooming Methods for Distance Communication with MSTEAMS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-powered-vision-and-sound-the-new-capabilities-of-the-google-assistant/"><u>AI-Powered Vision and Sound: The New Capabilities of the Google Assistant</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-working-logitech-g230-mic-a-step-by-step-guide/"><u>Effective Fixes for Non-Working Logitech G230 Mic: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/effective-techniques-for-clearing-your-computers-hard-drive-expert-tips-from-yl-computing/"><u>Effective Techniques for Clearing Your Computer's Hard Drive - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-division-2-game-crashing-issue-simple-solutions/"><u>How to Fix the Division 2 Game Crashing Issue - Simple Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-130-music-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia 130 Music Through Google Earth?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue/"><u>In 2024, The Zen of Zoom Talk Top Strategies for Smooth Virtual Dialogue</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/karaoke-cloud-pro-update-unveils-new-karaoke-music-trivia-feature/"><u>Karaoke Cloud Pro Update Unveils New Karaoke Music Trivia Feature!</u></a></li>
-<li><a href="https://solve-news.techidaily.com/seamless-scan-and-convert-textbooksdocuments-to-pdf-using-iphones-finereader-app/"><u>Seamless Scan & Convert Textbooks/Documents to PDF Using iPhone's FINEREADER App</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/transforming-viewers-into-active-participants/"><u>Transforming Viewers Into Active Participants</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-pc-boot-issues-essential-guidance-by-yl-computing-and-yl-software-experts/"><u>Troubleshooting PC Boot Issues: Essential Guidance by YL Computing and YL Software Experts</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-your-printers-spooler-guidance-by-yl-software/"><u>Troubleshooting Your Printer's Spooler - Guidance by YL Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-bend-and-shape-your-text-with-3d-effects-in-illustrator/"><u>[New] Bend and Shape Your Text with 3D Effects in Illustrator</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1728469913030-5/"><u>如何快速回收消失的資料夾：這5種方法就能解決你的問題！</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/copier-de-partitions-avec-le-chargeur-damorcage-uefi-sous-windows-11-10-8-ou-7-gratuite/"><u>Copier De Partitions Avec Le Chargeur D'amorçage UEFI Sous Windows 11, 10, 8 Ou 7 Gratuite</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/efficiently-import-high-quality-picture-collections-into-ios-using-google-photos-downloads/"><u>Efficiently Import High-Quality Picture Collections Into iOS Using Google Photos Downloads</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/guide-completement-gratuit-comment-copier-un-disque-dur-chiffre-avec-bitlocker-windows-11-10-et-versions-anciennes/"><u>Guide Completement Gratuit] Comment Copier Un Disque Dur Chiffré Avec BitLocker: Windows 11, 10 Et Versions Anciennes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-a05s-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Itel A05s.</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/schnittstellen-und-prozeduren-zum-aufheben-des-netzwerkspeicherverzeichnisses-mit-google-drive/"><u>Schnittstellen Und Prozeduren Zum Aufheben Des Netzwerkspeicherverzeichnisses Mit Google-Drive</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-list-of-17-metadata-management-applications-for-seo-success/"><u>The Ultimate List of 17 Metadata Management Applications for SEO Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-ranked-video-capture-tools-for-gaming-ideal-choices-for-both-mac-and-windows/"><u>Top-Ranked Video Capture Tools for Gaming: Ideal Choices for Both Mac and Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818365828-troubleshooting-screen-flashes-fixed/"><u>Troubleshooting Screen Flashes: Fixed</u></a></li>
 </ul></div>
 

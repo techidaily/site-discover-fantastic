@@ -1,7 +1,7 @@
 ---
 title: PCDJ Update Unveils Enhanced Karaoke DJ Keys in Latest Version - Explore the Power of DEX 3.11.0.1
-date: 2025-01-03T16:37:04.857Z
-updated: 2025-01-08T21:01:21.768Z
+date: 2025-01-08T21:08:47.150Z
+updated: 2025-01-14T16:09:13.282Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-following-review-innovative-outlooks/"><u>[Updated] In 2024, Following Review Innovative Outlooks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigating-the-world-of-mp4-edits-on-apple-devices/"><u>[Updated] Navigating the World of MP4 Edits on Apple Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-pfr-rate-for-sluggish-film-speed/"><u>[Updated] Top PFR Rate for Sluggish Film Speed</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1-unveiling-the-historical-impact-the-role-and-relevance-of-chinas-may-fourth-movement-a-comprehensive-analysis-by-yl-technology/"><u>1. Unveiling the Historical Impact: The Role and Relevance of China's May Fourth Movement - A Comprehensive Analysis by YL Technology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-alarms-best-download-sites/"><u>2024 Approved Excellent Alarms Best Download Sites</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/accelerate-system-initialization-with-these-yl-software-strategies/"><u>Accelerate System Initialization with These YL Software Strategies</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-and-launch-youtube-video-ads-on-budget/"><u>Build & Launch YouTube Video Ads on Budget</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-fixes-rejuvenate-frozen-mouse-contexts-in-windows/"><u>Easy Fixes: Rejuvenate Frozen Mouse Contexts in Windows</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/elevate-footage-flair-pc-and-mobile-filter-addition-for-2024/"><u>Elevate Footage Flair PC & Mobile Filter Addition for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/expert-tips-for-fixing-your-scan-devices-network-issues-in-windows-by-yl-computing-technologies/"><u>Expert Tips for Fixing Your Scan Device's Network Issues in Windows by YL Computing Technologies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratuito-conversor-de-archivo-mpe-em-para-formato-wav-online-movavi/"><u>Gratuito Conversor De Archivo MPE Em Para Formato WAV Online - Movavi</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-can-you-identify-a-defective-memory-stick-insights-from-yl-computing/"><u>How Can You Identify a Defective Memory Stick? Insights From YL Computing</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-do-hardware-constraints-influence-your-graphic-cards-power-an-expert-guide-from-yl-software/"><u>How Do Hardware Constraints Influence Your Graphic Card's Power: An Expert Guide From YL Software</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/top-5-secure-tech-routines-for-protecting-your-digital-life-with-yl-computing-expertise/"><u>Top 5 Secure Tech Routines for Protecting Your Digital Life with YL Computing Expertise</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-scanner-connection-errors-in-windows-expert-advice-from-yl-software/"><u>Troubleshooting Scanner Connection Errors in Windows: Expert Advice From YL Software</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-to-fix-the-deadly-critical-process-died-blue-screen-on-windows-10/"><u>Troubleshooting Steps to Fix the Deadly 'Critical Process Died' Blue Screen on Windows 10</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/unlock-potential-gains-discover-the-perks-of-leveraging-yls-registry-for-enhanced-software-performance/"><u>Unlock Potential Gains: Discover the Perks of Leveraging YL's Registry for Enhanced Software Performance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pursuit-of-riches-terrarias-quintessential-map-rankings/"><u>[New] In 2024, Pursuit of Riches Terraria’s Quintessential Map Rankings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-charting-success-navigating-a-3-step-strategy-for-tracking-youtube-income/"><u>[Updated] Charting Success Navigating a 3-Step Strategy for Tracking YouTube Income</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1728487578981-windows-server/"><u>高度なバックアップ戦略: Windows Serverで複合スケジュール設定の導入方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-game-bar-errors-on-underpowered-systems/"><u>Addressing Game Bar Errors on Underpowered Systems</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/guide-complet-sur-la-configuration-dune-partition-de-sauvegarde-sous-windows-1011/"><u>Guide Complet Sur La Configuration D'une Partition De Sauvegarde Sous Windows 10/11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-nokia-105-classic-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Nokia 105 Classic</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-picks-premium-costless-screencasting-apps-reviewed/"><u>In 2024, Expert Picks Premium, Costless Screencasting Apps Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-ai-dialogue-pivotal-features-of-the-future-gpt-5/"><u>Revolutionary AI Dialogue: Pivotal Features of the Future GPT-5</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/solved-fixing-the-issue-of-cobian-backup-engine-not-detected/"><u>Solved: Fixing the Issue of 'Cobian Backup Engine Not Detected'</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/streamlined-enterprise-data-protection-centralized-backup-solutions/"><u>Streamlined Enterprise Data Protection: Centralized Backup Solutions</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/tres-metodos-increibles-para-rescatar-imagenes-borradas-en-adobe-lightroom/"><u>Tres Métodos Increíbles Para Rescatar Imágenes Borradas en Adobe Lightroom</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-add-wonderful-old-school-feeling-distortion-and-glitch-effects-to-your-video-with-vhs-effect-read-this-article-to-learn-about-the-best-and-popular-m/"><u>Updated Add Wonderful Old-School Feeling, Distortion, and Glitch Effects to Your Video with VHS Effect. Read This Article to Learn About the Best and Popular Methods to Add VHS Effects to Your Videos in a Few Minutes</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1728479356307-aomei-backupper/"><u>バックアップファイルをAOMEI Backupperで分割する正しい手順</u></a></li>
 </ul></div>
 
