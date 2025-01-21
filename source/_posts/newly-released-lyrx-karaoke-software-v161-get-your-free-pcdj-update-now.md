@@ -1,7 +1,7 @@
 ---
 title: "Newly Released: LYRX Karaoke Software v1.6.1 - Get Your FREE PCDJ Update Now!"
-date: 2025-01-09T18:44:07.787Z
-updated: 2025-01-14T17:57:31.233Z
+date: 2025-01-13T20:04:36.224Z
+updated: 2025-01-20T17:42:25.712Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,16 +69,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-bend-and-shape-your-text-with-3d-effects-in-illustrator/"><u>[New] Bend and Shape Your Text with 3D Effects in Illustrator</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728469913030-5/"><u>如何快速回收消失的資料夾：這5種方法就能解決你的問題！</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/copier-de-partitions-avec-le-chargeur-damorcage-uefi-sous-windows-11-10-8-ou-7-gratuite/"><u>Copier De Partitions Avec Le Chargeur D'amorçage UEFI Sous Windows 11, 10, 8 Ou 7 Gratuite</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/efficiently-import-high-quality-picture-collections-into-ios-using-google-photos-downloads/"><u>Efficiently Import High-Quality Picture Collections Into iOS Using Google Photos Downloads</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/guide-completement-gratuit-comment-copier-un-disque-dur-chiffre-avec-bitlocker-windows-11-10-et-versions-anciennes/"><u>Guide Completement Gratuit] Comment Copier Un Disque Dur Chiffré Avec BitLocker: Windows 11, 10 Et Versions Anciennes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-a05s-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Itel A05s.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/schnittstellen-und-prozeduren-zum-aufheben-des-netzwerkspeicherverzeichnisses-mit-google-drive/"><u>Schnittstellen Und Prozeduren Zum Aufheben Des Netzwerkspeicherverzeichnisses Mit Google-Drive</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-ultimate-list-of-17-metadata-management-applications-for-seo-success/"><u>The Ultimate List of 17 Metadata Management Applications for SEO Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-ranked-video-capture-tools-for-gaming-ideal-choices-for-both-mac-and-windows/"><u>Top-Ranked Video Capture Tools for Gaming: Ideal Choices for Both Mac and Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818365828-troubleshooting-screen-flashes-fixed/"><u>Troubleshooting Screen Flashes: Fixed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/raft-stellar-channels-best-10-apps-for-artistic-banner-design/"><u>[New] Craft Stellar Channels Best 10 Apps for Artistic Banner Design</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-esteemed-endorsement-elite-websites-for-downloading-snapalerts/"><u>[New] In 2024, Esteemed Endorsement Elite Websites for Downloading SnapAlerts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-essential-5-apps-to-download-social-media-video-clips/"><u>[Updated] 2024 Approved Essential 5 Apps to Download Social Media Video Clips</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-1011sysprepaomee/"><u>了解Windows 10与11中Sysprep的优化护理替代品——AOMEE图像分发深度释义</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1728499231906-google/"><u>自動的なデータバックアップ用にスケジューリング方法 - Google検索対策</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/disk-cleanup-tips-for-preserving-files-in-windows-operating-systems-versions-11-10-8-and/"><u>Disk Cleanup Tips for Preserving Files in Windows Operating Systems (Versions 11, 10, 8 &</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-mp4-export-process-from-davinci-resolution-projects-drp/"><u>Mastering the MP4 Export Process From DaVinci Resolution Projects (DRP)</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/page-unavailable-error-code-404-detected/"><u>Page Unavailable – Error Code 404 Detected</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1725288834526-winx-dvd/"><u>무료 WinX 릴리스 품질 DVD 및 동영상 관리 소프트웨어를 가진 [공식] 다운로드 지점</u></a></li>
 </ul></div>
 

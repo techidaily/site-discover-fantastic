@@ -1,7 +1,7 @@
 ---
 title: PCDJ Update Unveils Enhanced Karaoke DJ Keys in Latest Version - Explore the Power of DEX 3.11.0.1
-date: 2025-01-08T21:08:47.150Z
-updated: 2025-01-14T16:09:13.282Z
+date: 2025-01-14T21:26:16.924Z
+updated: 2025-01-20T17:37:00.341Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,18 +67,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pursuit-of-riches-terrarias-quintessential-map-rankings/"><u>[New] In 2024, Pursuit of Riches Terraria’s Quintessential Map Rankings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-charting-success-navigating-a-3-step-strategy-for-tracking-youtube-income/"><u>[Updated] Charting Success Navigating a 3-Step Strategy for Tracking YouTube Income</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728487578981-windows-server/"><u>高度なバックアップ戦略: Windows Serverで複合スケジュール設定の導入方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-game-bar-errors-on-underpowered-systems/"><u>Addressing Game Bar Errors on Underpowered Systems</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/guide-complet-sur-la-configuration-dune-partition-de-sauvegarde-sous-windows-1011/"><u>Guide Complet Sur La Configuration D'une Partition De Sauvegarde Sous Windows 10/11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-nokia-105-classic-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Nokia 105 Classic</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-picks-premium-costless-screencasting-apps-reviewed/"><u>In 2024, Expert Picks Premium, Costless Screencasting Apps Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-ai-dialogue-pivotal-features-of-the-future-gpt-5/"><u>Revolutionary AI Dialogue: Pivotal Features of the Future GPT-5</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/solved-fixing-the-issue-of-cobian-backup-engine-not-detected/"><u>Solved: Fixing the Issue of 'Cobian Backup Engine Not Detected'</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/streamlined-enterprise-data-protection-centralized-backup-solutions/"><u>Streamlined Enterprise Data Protection: Centralized Backup Solutions</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/tres-metodos-increibles-para-rescatar-imagenes-borradas-en-adobe-lightroom/"><u>Tres Métodos Increíbles Para Rescatar Imágenes Borradas en Adobe Lightroom</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-add-wonderful-old-school-feeling-distortion-and-glitch-effects-to-your-video-with-vhs-effect-read-this-article-to-learn-about-the-best-and-popular-m/"><u>Updated Add Wonderful Old-School Feeling, Distortion, and Glitch Effects to Your Video with VHS Effect. Read This Article to Learn About the Best and Popular Methods to Add VHS Effects to Your Videos in a Few Minutes</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728479356307-aomei-backupper/"><u>バックアップファイルをAOMEI Backupperで分割する正しい手順</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-beats-and-bites-mastering-music-in-instagram-stories/"><u>[New] Beats & Bites Mastering Music in Instagram Stories</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2023-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2023 Online with DigiSigner</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-becoming-a-reaction-guru-a-complete-guidebook/"><u>In 2024, Becoming a Reaction Guru A Complete Guidebook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-note-30-vip-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Note 30 VIP has been deleted.</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/solve-java-ransomware-woes-mastering-file-restoration-using-malwarefox-tools/"><u>Solve Java Ransomware Woes: Mastering File Restoration Using MalwareFox Tools</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-syncing-your-iphone-with-a-philips-smart-tv/"><u>Step-by-Step Guide: Syncing Your iPhone with a Philips Smart TV</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-transforming-your-mxf-files-into-compatible-mp4-format/"><u>Step-by-Step Guide: Transforming Your MXF Files Into Compatible MP4 Format</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/top-strategies-for-effective-deletion-of-iphone-voicemails/"><u>Top Strategies for Effective Deletion of iPhone Voicemails</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/top-techniques-for-successful-cd-burning-on-windows-10/"><u>Top Techniques for Successful CD Burning on Windows 10</u></a></li>
 </ul></div>
 

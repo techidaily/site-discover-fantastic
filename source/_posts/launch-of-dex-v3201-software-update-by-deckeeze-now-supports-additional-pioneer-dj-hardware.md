@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.1 Software Update by Deckeeze | Now Supports Additional Pioneer DJ Hardware
-date: 2025-01-10T17:14:23.086Z
-updated: 2025-01-14T21:39:43.550Z
+date: 2025-01-18T17:18:00.946Z
+updated: 2025-01-20T20:13:28.138Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ If you already use a Pioneer DJ controller or plan on purchasing one in the near
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20.1
@@ -50,7 +50,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.1 version of our **Best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,19 +72,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/03/Pioneer-DJ-Controllers-DEX
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-critique-on-luminances-approach-to-hdr-creation/"><u>[New] 2024 Approved Critique on Luminance’s Approach to HDR Creation</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-infiltrating-the-top-channels-in-youtube-space/"><u>[New] In 2024, Infiltrating the Top Channels in YouTube Space</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/eb-integration-adding-youtube-playlists-easily/"><u>[New] Web Integration Adding YouTube Playlists Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/44cm44og44os44ot6auy6kej5yop5bqm44kz44oz44og44oz44oe6kiy5oa25lplusd5oyb5oml6acg44oe44k544k44o844kv44op44k544cn/"><u>「テレビ高解像度コンテンツ記憶保持手順マスタークラス」</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1424562-9781780284408-celtic-wisdom/"><u>Celtic Wisdom | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/dont-miss-out-pre-order-the-latest-apple-watch-series-ve-special-offers-and-guides-to-saving-money/"><u>Don't Miss Out! Pre-Order the Latest Apple Watch Series Ve Special Offers & Guides to Saving Money</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/graphics-card-malfunction-solutions-expert-advice-from-yl-computing-and-yl-software-for-optimal-fixes/"><u>Graphics Card Malfunction Solutions: Expert Advice From YL Computing & YL Software for Optimal Fixes</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/graphics-card-malfunction-solutions-step-by-step-repair-guide-pixelpatchers/"><u>Graphics Card Malfunction Solutions: Step-by-Step Repair Guide - PixelPatchers</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/navigating-potential-hazards-in-direct-registry-editing-expert-advice-by-yl-computing-and-software-solutions/"><u>Navigating Potential Hazards in Direct Registry Editing: Expert Advice by YL Computing and Software Solutions</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/pcdj-update-unveils-enhanced-karaoke-dj-keys-in-latest-version-explore-the-power-of-dex-31101/"><u>PCDJ Update Unveils Enhanced Karaoke DJ Keys in Latest Version - Explore the Power of DEX 3.11.0.1</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-instructions-for-taking-and-distributing-your-own-gameplay-snaps-on-nintendo-switch/"><u>Simple Instructions for Taking & Distributing Your Own Gameplay Snaps on Nintendo Switch</u></a></li>
-<li><a href="https://fox-making.techidaily.com/tausch-der-datentrager-wie-sie-das-erreichen-ohne-neu-zu-installieren/"><u>Tausch Der Datenträger: Wie Sie Das Erreichen, Ohne Neu Zu Installieren?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-disappearing-dark-mode-on-facebook-expert-tips-and-tricks/"><u>Troubleshooting Disappearing Dark Mode on Facebook: Expert Tips and Tricks</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-tips-for-restoring-damaged-device-drivers-with-help-from-yl-software-experts/"><u>Troubleshooting Tips for Restoring Damaged Device Drivers with Help From YL Software Experts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-step-by-step-guide-to-navigating-io-screener/"><u>2024 Approved Step-by-Step Guide to Navigating IO Screener</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/clone-your-existing-windows-7-setup-a-guide-to-transferring-it-to-a-fresh-hard-disk-or-ssd-step-by-step/"><u>Clone Your Existing Windows 7 Setup: A Guide to Transferring It to a Fresh Hard Disk or SSD (Step-by-Step)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-wireless-driver-installation-download-options-inside/"><u>Hassle-Free Wireless Driver Installation - Download Options Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g24-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G24 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leveraging-social-integration-auto-play-youtube-videos-on-fb-pages-for-2024/"><u>Leveraging Social Integration Auto-Play Youtube Videos on FB Pages for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/quick-hyper-v-transfer-of-vms-between-different-servers-made-easy/"><u>Quick Hyper-V Transfer of VMs Between Different Servers Made Easy!</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ricaricare-aggiorna-o-reinstallare-i-drivers-su-ios-soluzioni-e-passaggi-essenziali/"><u>Ricaricare, Aggiorna O Reinstallare I Drivers Su iOS: Soluzioni E Passaggi Essenziali</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/solving-the-puzzle-why-your-saved-files-arent-showing-on-desktop/"><u>Solving the Puzzle: Why Your Saved Files Aren't Showing on Desktop</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210934877-9781800650459-the-modern-guide-to-crystal-healing/"><u>The Modern Guide to Crystal Healing | Free Book</u></a></li>
+<li><a href="https://discover-best.techidaily.com/the-ultimate-guide-to-revitalizing-your-computer-tips-for-enhanced-speed-from-yl-computing-expertise/"><u>The Ultimate Guide to Revitalizing Your Computer: Tips for Enhanced Speed From YL Computing Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-pc-potential-the-best-windows-tools/"><u>Unleash PC Potential: The Best Windows Tools</u></a></li>
 </ul></div>
 
