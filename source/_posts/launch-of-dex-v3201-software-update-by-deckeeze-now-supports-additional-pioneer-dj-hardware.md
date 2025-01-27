@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.1 Software Update by Deckeeze | Now Supports Additional Pioneer DJ Hardware
-date: 2025-01-18T17:18:00.946Z
-updated: 2025-01-20T20:13:28.138Z
+date: 2025-01-21T00:33:43.289Z
+updated: 2025-01-26T18:14:33.600Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ If you already use a Pioneer DJ controller or plan on purchasing one in the near
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20.1
@@ -50,7 +50,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.1 version of our **Best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,16 +72,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/03/Pioneer-DJ-Controllers-DEX
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-step-by-step-guide-to-navigating-io-screener/"><u>2024 Approved Step-by-Step Guide to Navigating IO Screener</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/clone-your-existing-windows-7-setup-a-guide-to-transferring-it-to-a-fresh-hard-disk-or-ssd-step-by-step/"><u>Clone Your Existing Windows 7 Setup: A Guide to Transferring It to a Fresh Hard Disk or SSD (Step-by-Step)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-wireless-driver-installation-download-options-inside/"><u>Hassle-Free Wireless Driver Installation - Download Options Inside</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g24-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G24 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leveraging-social-integration-auto-play-youtube-videos-on-fb-pages-for-2024/"><u>Leveraging Social Integration Auto-Play Youtube Videos on FB Pages for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/quick-hyper-v-transfer-of-vms-between-different-servers-made-easy/"><u>Quick Hyper-V Transfer of VMs Between Different Servers Made Easy!</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/ricaricare-aggiorna-o-reinstallare-i-drivers-su-ios-soluzioni-e-passaggi-essenziali/"><u>Ricaricare, Aggiorna O Reinstallare I Drivers Su iOS: Soluzioni E Passaggi Essenziali</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/solving-the-puzzle-why-your-saved-files-arent-showing-on-desktop/"><u>Solving the Puzzle: Why Your Saved Files Aren't Showing on Desktop</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210934877-9781800650459-the-modern-guide-to-crystal-healing/"><u>The Modern Guide to Crystal Healing | Free Book</u></a></li>
-<li><a href="https://discover-best.techidaily.com/the-ultimate-guide-to-revitalizing-your-computer-tips-for-enhanced-speed-from-yl-computing-expertise/"><u>The Ultimate Guide to Revitalizing Your Computer: Tips for Enhanced Speed From YL Computing Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-pc-potential-the-best-windows-tools/"><u>Unleash PC Potential: The Best Windows Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unpacking-the-features-and-shortcomings-of-samsung-image-editor/"><u>[New] In 2024, Unpacking the Features and Shortcomings of Samsung Image Editor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unforgettable-visions-the-top-15-stop-motion-film-classics-for-2024/"><u>[New] Unforgettable Visions The Top 15 Stop-Motion Film Classics for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/2-essential-techniques-for-successfully-implementing-dell-emc-avamar-backup-solutions/"><u>2. Essential Techniques for Successfully Implementing Dell EMC Avamar Backup Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-unveil-exclusive-video-snippets-all-at-zero-cost/"><u>2024 Approved Unveil Exclusive Video Snippets – All at Zero Cost!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/6-effective-strategies-to-resolve-apple-watch-pairing-difficulties-successfully/"><u>6 Effective Strategies to Resolve Apple Watch Pairing Difficulties Successfully</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/erinnerungen-an-das-basiskennwort-fur-ihre-itunes-sicherungsdatenbank/"><u>Erinnerungen an Das Basiskennwort Für Ihre iTunes-Sicherungsdatenbank</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/expert-tutorial-how-to-detach-and-erase-an-esxi-host-via-the-command-line-on-vcenter-server/"><u>Expert Tutorial: How to Detach and Erase an ESXi Host via the Command Line on vCenter Server</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/get-timely-email-notices-with-amomei-backupper-pro-feature/"><u>Get Timely Email Notices with AMOMEI Backupper Pro Feature</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ideale-migrationssoftware-von-lenovo-fur-ein-reibungsloses-umstellen-auf-windows-11-10-8-oder-nativ/"><u>Ideale Migrationssoftware Von Lenovo Für Ein Reibungsloses Umstellen Auf Windows 11, 10, 8 Oder Nativ</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-mobile-photography-with-android-lightroom-application/"><u>In 2024, Exploring Mobile Photography with Android Lightroom Application</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>In 2024, Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/kostenlose-wiederherstellung-geloschter-fotos-auf-dem-laptop-losungen-und-tipps/"><u>Kostenlose Wiederherstellung Gelöschter Fotos Auf Dem Laptop - Lösungen Und Tipps</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/losung-fur-das-problem-reset-funktion-von-windows-10-diesen-pc-zurucksetzen-funktioniert-nicht/"><u>Lösung Für Das Problem: Reset-Funktion Von Windows 10 'Diesen PC Zurücksetzen' Funktioniert Nicht</u></a></li>
+<li><a href="https://win-top.techidaily.com/movavi-online-transforma-tu-imagen-nef-en-un-archivado-de-alta-calidad-tiff-gratuito/"><u>Movavi Online: Transforma Tu Imagen NEF en Un Archivado De Alta Calidad TIFF Gratuito</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ultimate-fix-for-windows-10-srttrailtxt-errors-discover-all-16-methods-to-rectify-logfile-problems/"><u>Ultimate Fix for Windows # 10 SrtTrail.txt Errors? Discover All 16 Methods to Rectify Logfile Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guides-and-tutorials-by-toms-hardware-experts/"><u>Ultimate Guides and Tutorials by Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-missing-desktop-shortcuts-on-windows-11-solutions-and-tips/"><u>Winning the Battle Against Missing Desktop Shortcuts on Windows 11: Solutions and Tips</u></a></li>
 </ul></div>
 
