@@ -1,7 +1,7 @@
 ---
 title: PCDJ Update Unveils Enhanced Karaoke DJ Keys in Latest Version - Explore the Power of DEX 3.11.0.1
-date: 2025-01-25T23:31:14.368Z
-updated: 2025-01-26T21:26:51.091Z
+date: 2025-02-05T16:28:22.002Z
+updated: 2025-02-08T17:44:52.525Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,18 +67,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-conquer-snapchat-lens-design-two-easy-approaches/"><u>[New] 2024 Approved Conquer Snapchat Lens Design Two Easy Approaches</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-journey-through-japan-best-video-games-akin-to-ghost-of-tsushima/"><u>[New] In 2024, Journey Through Japan Best Video Games Akin to Ghost of Tsushima</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-bargains-on-amazon-before-the-excitement-of-prime-day-2024-insider-tips-techradar/"><u>Best Bargains on Amazon Before the Excitement of Prime Day 2024 - Insider Tips | TechRadar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Samsung Galaxy S21 FE 5G (2023).</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/is-your-pc-at-risk-with-ccleaner-comprehensive-guide-to-detecting-malware-and-protective-measures/"><u>Is Your PC at Risk with CCleaner? Comprehensive Guide to Detecting Malware & Protective Measures</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210494723-9782017150176-la-foret-quatre-questions-la-vie-et-moi/"><u>La forêt, quatre questions, la vie et moi | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-to-updating-scansnap-s1100-software-for-a-smooth-scanning-experience/"><u>Quick Guide to Updating Scansnap S1100 Software for a Smooth Scanning Experience</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/revealing-the-hidden-consequences-of-online-harassment-proven-tactics-to-combat-cyberbullying-effectively/"><u>Revealing the Hidden Consequences of Online Harassment: Proven Tactics to Combat Cyberbullying Effectively</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-adding-text-overlay-to-your-instagram-images/"><u>Step-by-Step Guide: Adding Text Overlay to Your Instagram Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/surviving-windows-11-blue-screen-adopting-11-key-approaches/"><u>Surviving Windows 11 Blue Screen: Adopting 11 Key Approaches</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/top-10-essential-malware-scanning-tools-for-your-websites-security-featuring-malwarefox/"><u>Top 10 Essential Malware Scanning Tools for Your Website's Security: Featuring MalwareFox</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/top-performing-software-solutions-for-creating-png-graphics/"><u>Top-Performing Software Solutions for Creating PNG Graphics</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/unmasking-bogus-apple-id-cons-protective-measures-by-malwarefox/"><u>Unmasking Bogus Apple ID Cons: Protective Measures by MalwareFox</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-converge-your-viewing-proficiently-using-netflix-pip-mode/"><u>[New] Converge Your Viewing Proficiently Using Netflix PIP Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerated-conversion-guide-from-complex-srt-to-txt-2023/"><u>Accelerated Conversion Guide From Complex SRT to TXT 2023</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/boost-performance-by-deleting-clutter-save-ram-on-windows-yl-software/"><u>Boost Performance by Deleting Clutter: Save RAM on Windows - YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/dazzling-display-holiday-themed-window-wonders/"><u>Dazzling Display: Holiday Themed Window Wonders</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/how-can-you-identify-graphics-card-malfunctions-on-your-windows-pc-innovative-solutions-by-yl-computing/"><u>How Can You Identify Graphics Card Malfunctions on Your Windows PC - Innovative Solutions by YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-effortless-techniques-recording-and-storing-gotomeeting-data/"><u>In 2024, Effortless Techniques Recording and Storing GoToMeeting Data</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-error-87-essential-tips-to-fix-invalid-parameters-causing-loadlibrary-failures/"><u>Overcome Error 87: Essential Tips to Fix Invalid Parameters Causing LoadLibrary Failures</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/solving-issues-with-faulty-power-supplies-a-step-by-step-guide-by-yl-computing/"><u>Solving Issues with Faulty Power Supplies: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/solving-printer-driver-problems-on-your-windows-pc-expert-tips-and-tricks-by-yl-computing/"><u>Solving Printer Driver Problems on Your Windows PC: Expert Tips & Tricks by YL Computing</u></a></li>
 </ul></div>
 
