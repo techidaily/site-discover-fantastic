@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.1 Software Update by Deckeeze | Now Supports Additional Pioneer DJ Hardware
-date: 2025-02-12T20:29:26.222Z
-updated: 2025-02-18T17:58:23.533Z
+date: 2025-03-04T18:19:29.575Z
+updated: 2025-03-06T18:39:40.894Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ If you already use a Pioneer DJ controller or plan on purchasing one in the near
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New, Changed, and Fixed in DEX 3.20.1
 
 * New controller supported: [Pioneer DDJ-REV1](https://www.pioneerdj.com/en/product/controller/ddj-rev1/black/overview/)
@@ -48,10 +44,6 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.20.1\_macOS.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina or above, [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 _Have questions about the latest 3.20.1 version of our **Best DJ software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -72,17 +64,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/03/Pioneer-DJ-Controllers-DEX
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-fantastic.techidaily.com/1-ultimate-guide-to-saving-your-favorite-keek-videos-as-high-quality-files-in-various-formats/"><u>1. Ultimate Guide to Saving Your Favorite Keek Videos as High-Quality Files in Various Formats</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/best-replacement-tools-for-virtualdub-seamless-recording-of-web-content-into-high-quality-mp4-files/"><u>Best Replacement Tools for VirtualDub: Seamless Recording of Web Content Into High-Quality MP4 Files</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/convert-your-downloaded-episodes-into-various-audio-formats-including-mp3-and-more-on-pc-or-mac/"><u>Convert Your Downloaded Episodes Into Various Audio Formats Including MP3 & More on PC or Mac</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/download-pac-12-content-convert-and-save-your-favorite-videos-from-pac-12com-in-popular-formats-like-mp4-and-avi/"><u>Download Pac-12 Content: Convert and Save Your Favorite Videos From pac-12.com in Popular Formats Like MP4 & AVI</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/download-ultimate-collection-of-erito-adult-films-in-high-definition-formats-like-mp4-mov-avi-and-flv/"><u>Download Ultimate Collection of Erito Adult Films in High-Definition Formats Like MP4, MOV, AVI, and FLV</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/echoes-of-harmony-in-a-social-sphere-for-2024/"><u>Echoes of Harmony in a Social Sphere for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-tutorial-create-engaging-reaction-videos-in-no-time/"><u>Filmora Tutorial Create Engaging Reaction Videos in No Time</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-eliminating-directx-glitches-in-battlefield-2042/"><u>Mastering the Fix: Eliminating DirectX Glitches in Battlefield 2042</u></a></li>
-<li><a href="https://extra-support.techidaily.com/realms-unite-or-compare-metaverse-vs-omniverse-explored-for-2024/"><u>Realms Unite or Compare? Metaverse Vs. Omniverse Explored for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/screenplay-foundations-a-guide-for-2024/"><u>Screenplay Foundations A Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-seamless-path-integrating-your-social-photos-into-device-storage/"><u>The Seamless Path Integrating Your Social Photos Into Device Storage</u></a></li>
-<li><a href="https://fox-links.techidaily.com/upgrade-photographic-images-preserve-precision/"><u>Upgrade Photographic Images, Preserve Precision</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-embracing-the-future-with-benq-sw320s-4k-display-technology/"><u>[New] Embracing the Future with BenQ SW320's 4K Display Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-live-game-replays-with-fraps/"><u>[New] Mastering Live Game Replays with Fraps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rethink-your-feed-6-innovative-video-platforms-on-mobile-devices/"><u>[New] Rethink Your Feed 6 Innovative Video Platforms on Mobile Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/our-secret-to-popularity-choosing-best-thumbnail-fonts/"><u>[New] Your Secret to Popularity Choosing Best Thumbnail Fonts</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/changing-power-configuration-via-control-panel-a-guide-by-yl-computing/"><u>Changing Power Configuration via Control Panel - A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/diagnosing-scanner-issues-why-isnt-your-device-responding-insights-by-yl-software-experts/"><u>Diagnosing Scanner Issues: Why Isn't Your Device Responding? Insights by YL Software Experts</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/easy-steps-to-configure-user-management-and-permission-settings-with-yl-computings-software/"><u>Easy Steps to Configure User Management & Permission Settings with YL Computing's Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/is-your-motherboard-on-the-verge-of-failure-discover-diagnostic-techniques-with-yl-software/"><u>Is Your Motherboard on the Verge of Failure? Discover Diagnostic Techniques with YL Software</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/mastering-crypto-minting-on-your-own-expert-tips-from-yl-computing/"><u>Mastering Crypto-Minting on Your Own: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-fbs-viral-hits-10-songs-that-scored-big-for-2024/"><u>Mastering FB's Viral Hits - 10 Songs That Scored Big for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/mastering-file-conversion-techniques-in-windows-with-expert-tips-from-yl-computing/"><u>Mastering File Conversion Techniques in Windows with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/navigating-compliance-in-digital-coin-transactions-expertise-by-yl-software/"><u>Navigating Compliance in Digital Coin Transactions: Expertise by YL Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-portability-a-detailed-assessment-of-apples-iphone-12-mini-experience/"><u>Revolutionizing Portability: A Detailed Assessment of Apple's iPhone 12 Mini Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On OnePlus Open? | Dr.fone</u></a></li>
 </ul></div>
 

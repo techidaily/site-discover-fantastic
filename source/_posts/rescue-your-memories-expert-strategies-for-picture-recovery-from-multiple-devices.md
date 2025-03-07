@@ -1,7 +1,7 @@
 ---
 title: "Rescue Your Memories: Expert Strategies for Picture Recovery From Multiple Devices"
-date: 2025-02-13T18:23:28.218Z
-updated: 2025-02-18T19:47:52.022Z
+date: 2025-03-03T19:05:28.741Z
+updated: 2025-03-06T16:24:47.409Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a1754ee9632a9d2f7f9073f37e2.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -76,33 +72,17 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -118,17 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -160,10 +132,6 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
@@ -186,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,24 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-capturing-magic-essential-cinematographic-secrets-unveiled/"><u>[New] Capturing Magic Essential Cinematographic Secrets Unveiled</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-time-saving-ways-to-log-vimeo-media/"><u>[Updated] Time-Saving Ways to Log Vimeo Media</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unveiling-advanced-methods-to-harness-screencapture-tools/"><u>[Updated] Unveiling Advanced Methods to Harness ScreenCapture Tools</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728473253968-1-windows-11/"><u>1. Windows 11で異なるドライブへのパーティション移行手順</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-common-fixes-for-when-apples-live-photo-feature-wont-open-on-your-iphone/"><u>6 Common Fixes for When Apple's Live Photo Feature Won't Open on Your iPhone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-crashes-in-deathloop-effortless-tips-and-techniques-for-players/"><u>Avoid Crashes in Deathloop - Effortless Tips and Techniques for Players</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/endlich-gelost-strategien-zum-reaktivieren-deiner-windows-11-backup-funktion-nach-deaktivierungskonflikten/"><u>Endlich Gelöst: Strategien Zum Reaktivieren Deiner Windows 11 Backup-Funktion Nach Deaktivierungskonflikten</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-to-effortlessly-transition-your-messages-a-guide-for-shifting-from-thunderbird-to-outlook-without-spending-a-penny/"><u>How to Effortlessly Transition Your Messages: A Guide for Shifting From Thunderbird to Outlook Without Spending a Penny</u></a></li>
-<li><a href="https://driver-download.techidaily.com/overcoming-hd-audio-driver-challenges-on-your-pc-using-realtek-alc887/"><u>Overcoming HD Audio Driver Challenges on Your PC Using Realtek ALC887</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/professionelle-anleitungen-zum-wiederherstellen-von-geloschten-dateien-auf-dem-wechseldatentrager-unter-windows-10/"><u>Professionelle Anleitungen Zum Wiederherstellen Von Gelöschten Dateien Auf Dem Wechseldatenträger Unter Windows 10</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/protecting-your-file-or-folder-with-a-password-in-windows-11-three-comprehensive-methods/"><u>Protecting Your File or Folder with a Password in Windows 11 - Three Comprehensive Methods</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/regular-pc-upkeep-tips-from-yl-computing-to-maintain-optimal-efficiency-and-speed/"><u>Regular PC Upkeep Tips From YL Computing to Maintain Optimal Efficiency and Speed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-deletion-of-automatic-android-photo-sync-a-hassle-free-guide/"><u>Seamless Deletion of Automatic Android Photo Sync: A Hassle-Free Guide</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-migrating-cloned-content-from-dynamic-disks-to-hard-drives-and-solid-state-drives-securely-on-windows-7/"><u>Step-by-Step Guide: Migrating Cloned Content From Dynamic Disks to Hard Drives and Solid State Drives Securely on Windows 7</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-tutorial-addressing-the-undetected-tpm-issue-in-windows-11-and-10-systems/"><u>Step-by-Step Tutorial: Addressing the Undetected TPM Issue in Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/windows-10c/"><u>Windows 10上のCドライブ問題：原因調査から回復方法まで完全ガイド！</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/yahoo4/"><u>Yahooメールフォルダバックアップには4つの効果的な手法があります</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-can-you-make-outstanding-youtube-outro-for-2024/"><u>[New] How Can You Make Outstanding YouTube Outro for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-hashtagging-strategies-for-maximum-impact-on-facebook/"><u>[New] The Art of Hashtagging Strategies for Maximum Impact on Facebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-live-streaming-pre-recorded-fb-videos/"><u>[Updated] In 2024, Mastering the Art of Live Streaming Pre-Recorded FB Videos</u></a></li>
+<li><a href="https://win-unique.techidaily.com/benefits-of-creating-a-clone-copy-of-your-windows-10-system/"><u>Benefits of Creating a Clone Copy of Your Windows 10 System</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/easy-and-fast-guide-moving-pictures-from-googles-picasa-to-an-outside-storage-device/"><u>Easy and Fast Guide: Moving Pictures From Google's Picasa to an Outside Storage Device</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/easy-steps-to-mastering-the-game-of-army-commander-on-your-computer/"><u>Easy Steps to Mastering the Game of Army Commander on Your Computer</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/effective-techniques-to-fix-critical-error-106-in-the-action-programming-language/"><u>Effective Techniques to Fix Critical Error 106 in the ACTION Programming Language</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-moto-g14-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Moto G14</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-thankful-discoveries-unlimited-outro-options/"><u>In 2024, Thankful Discoveries Unlimited Outro Options</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ating-the-best-freefire-tips-online-for-2024/"><u>Navigating the Best FreeFire Tips Online for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/record-and-capture-with-ease-top-picks-for-professional-screen-recording-tools/"><u>Record & Capture with Ease: Top Picks for Professional Screen Recording Tools</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/resolving-the-critical-error-105-a-step-by-step-guide/"><u>Resolving the Critical Error 105: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/streaming-and-downloading-movies-and-series-your-ultimate-guide-to-tune-video-content/"><u>Streaming and Downloading Movies & Series: Your Ultimate Guide to Tune Video Content</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/top-virtualdub-substitutes-effortlessly-capture-and-save-live-streams-as-mp4/"><u>Top VirtualDub Substitutes: Effortlessly Capture and Save Live Streams as MP4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-bluetooth-mice-of-2024-boost-your-work-efficiency/"><u>Top-Rated Portable Bluetooth Mice of 2024: Boost Your Work Efficiency</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/transform-lives-10-cinematic-inspirations-for-2024/"><u>Transform Lives 10 Cinematic Inspirations for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/trusted-techniques-for-securely-transferring-mp3-files-onto-your-ipod/"><u>Trusted Techniques for Securely Transferring MP3 Files Onto Your iPod</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/tutorial-how-to-extract-videos-from-national-geographic-website-as-high-quality-mp4-mov-or-avi-files/"><u>Tutorial: How To Extract Videos From National Geographic Website as High-Quality MP4, MOV or AVI Files</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/tv4play-tunefinder-pro-your-ultimate-tool-for-free-music-and-video-downloads-from-tv4plyse/"><u>TV4PLAY TuneFinder Pro: Your Ultimate Tool for Free Music & Video Downloads From TV4PLYSE</u></a></li>
 </ul></div>
 

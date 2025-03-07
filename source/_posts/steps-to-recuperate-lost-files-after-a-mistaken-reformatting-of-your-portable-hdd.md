@@ -1,7 +1,7 @@
 ---
 title: Steps to Recuperate Lost Files After a Mistaken Reformatting of Your Portable HDD
-date: 2025-02-14T22:27:45.501Z
-updated: 2025-02-18T20:10:56.509Z
+date: 2025-03-05T17:05:17.319Z
+updated: 2025-03-07T00:52:38.010Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5024ee062fdf9880b101f6b7.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -64,10 +56,6 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
@@ -80,10 +68,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -92,10 +76,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -148,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -180,10 +156,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 If you have created a backup with AOMEI Backupper, you can easily perform a restore anytime you want. You can choose to [restore hard disk drive](https://tools.techidaily.com/ubackup/products/), the system, partition or files/folders to the point you ever made a backup.
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -237,17 +209,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -277,10 +241,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -298,16 +258,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-how-can-you-make-outstanding-youtube-outro-for-2024/"><u>[Updated] How Can You Make Outstanding YouTube Outro for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-sightline-synopsis-study/"><u>[Updated] Sightline Synopsis Study</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamlined-list-6-efficient-mac-screen-recording-solutions/"><u>[Updated] Streamlined List 6 Efficient Mac Screen Recording Solutions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-studio-strategies-for-video-impact-and-growth/"><u>2024 Approved Studio Strategies for Video Impact and Growth</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-15-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-essential-blueprint-for-melding-linktree-into-tiktok-profiles/"><u>In 2024, The Essential Blueprint for Melding Linktree Into TikTok Profiles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/monetary-aspects-of-shopping-reviews-vlogs-for-2024/"><u>Monetary Aspects of Shopping Reviews Vlogs for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/quickdownload-tool-securely-fetch-xxx-movies-from-xxxymovies/"><u>QuickDownload Tool - Securely Fetch XXX Movies From XXXYMovies</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/save-your-favorite-showtime-series-as-video-files-mp4movavi-for-offline-viewing/"><u>Save Your Favorite Showtime Series as Video Files (MP4/MOV/AVI) for Offline Viewing</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-downloading-ultra-hd-360-videos-from-youtube-on-macos-and-windows-pcs/"><u>Step-by-Step Guide: Downloading Ultra HD 360° Videos From YouTube on macOS & Windows PCs</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/steps-for-securely-accessing-and-saving-mcgraw-hills-medical-educational-content/"><u>Steps for Securely Accessing and Saving McGraw-Hill's Medical Educational Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-video-dynamics-a-guide-to-perfecting-jump-cutting/"><u>[New] In 2024, Amplify Video Dynamics A Guide to Perfecting Jump Cutting</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-expertly-blending-tracks-using-audacity-crossfade-tools-for-2024/"><u>[Updated] Expertly Blending Tracks Using Audacity Crossfade Tools for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-onscreen-excellence-video-talent-licensing/"><u>[Updated] Onscreen Excellence Video Talent Licensing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-apples-m1-pro-versus-the-powerhouse-m1-max-what-to-note/"><u>2024 Approved Apple's M1 Pro Versus the Powerhouse M1 Max - What to Note?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ranked-alternatives-to-sporting-events-in-firstrow-views/"><u>2024 Approved Ranked Alternatives to Sporting Events in Firstrow Views</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-narzo-60x-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme Narzo 60x 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/enhancing-pc-speed-and-responsiveness-a-guide-by-yl-software-experts-at-yl-computing/"><u>Enhancing PC Speed and Responsiveness: A Guide by YL Software Experts at YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/how-to-perform-a-comprehensive-system-check-for-detecting-hardware-malfunctions-yl-computings-guide/"><u>How to Perform a Comprehensive System Check for Detecting Hardware Malfunctions - YL Computing's Guide</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/identifying-memory-issues-on-your-pc-a-guide-by-yl-computing/"><u>Identifying Memory Issues on Your PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/key-factors-to-consider-when-selecting-a-crypto-trading-platform-insights-from-yl-computing/"><u>Key Factors to Consider When Selecting a Crypto Trading Platform: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/key-historical-milestones-paving-the-way-for-the-establishment-of-the-republic-of-china-insights-by-yl-technologies/"><u>Key Historical Milestones Paving the Way for the Establishment of the Republic of China - Insights by YL Technologies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g73-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Motorola Moto G73 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/navigating-windows-sound-management-essential-steps-for-adjusting-volume-and-effects-in-the-control-panel-by-experts-at-yl-software/"><u>Navigating Windows Sound Management: Essential Steps for Adjusting Volume and Effects in the Control Panel by Experts at YL Software</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/professional-desktop-graphics-premium-6301280-images-and-wallpaper-collections-from-yl-software-expertise/"><u>Professional Desktop Graphics: Premium 630×1280 Images and Wallpaper Collections From YL Software Expertise</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/recognizing-faulty-ram-a-guide-by-yl-computing-uncover-how-to-spot-and-address-ram-issues/"><u>Recognizing Faulty RAM: A Guide by YL Computing - Uncover How to Spot and Address RAM Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-strategies-for-high-quality-adobe-recordings-for-2024/"><u>Top Strategies for High-Quality Adobe Recordings for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/updating-your-scanners-drivers-made-easy-a-step-by-step-guide-by-yl-computing/"><u>Updating Your Scanner's Drivers Made Easy: A Step-by-Step Guide by YL Computing</u></a></li>
 </ul></div>
 

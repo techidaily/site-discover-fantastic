@@ -1,7 +1,7 @@
 ---
 title: "Protect Your PC Against Ransomware: Essential Tips and Strategies"
-date: 2025-01-17T17:55:30.036Z
-updated: 2025-01-20T16:56:46.946Z
+date: 2025-03-04T10:13:32.412Z
+updated: 2025-03-06T23:48:56.421Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d303ed5814c688bdf2e6498bb.jpg
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -48,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -89,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,10 +154,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,24 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-securely-archiving-your-google-voice-talks/"><u>[Updated] 2024 Approved Securely Archiving Your Google Voice Talks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-record-google-meet-on-phone/"><u>[Updated] In 2024, How to Record Google Meet on Phone?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-must-know-elements-of-influential-titles/"><u>5 Must-Know Elements of Influential Titles</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-f25-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo F25 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/easy-audio-conversion-solution-save-videos-and-sound-from-any-source-as-high-quality-mp3-wav-or-mp4-files/"><u>Easy Audio Conversion Solution: Save Videos & Sound From Any Source as High-Quality MP3, WAV, or MP4 Files</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/effortless-video-download-tool-for-converting-bing-search-results-to-mp4-mov-or-avi-playback-formats/"><u>Effortless Video Download Tool for Converting Bing Search Results to MP4, MOV, or AVI Playback Formats</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/find-your-perfect-audio-rip-app-the-ultimate-guide-to-top-stationripper-substitutes-on-mac-and-pc-including-allavsoft/"><u>Find Your Perfect Audio Rip App: The Ultimate Guide to Top StationRipper Substitutes on Mac and PC, Including Allavsoft</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/free-downloads-from-medquestreviews-explore-top-educational-videos-on-medicine-and-healthcare/"><u>Free Downloads From MedQuestReviews: Explore Top Educational Videos on Medicine and Healthcare</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-to-easily-convert-and-download-songs-from-qq-playlist-to-high-quality-audio-files-mp3-aac-m4a-options-inside/"><u>How To Easily Convert and Download Songs From QQ Playlist to High-Quality Audio Files: MP3, AAC, M4A Options Inside!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-smooth-sailing-with-kinemaster-in-film-edits/"><u>In 2024, Smooth Sailing with Kinemaster in Film Edits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175681761-maximize-speed-with-corsairs-innovative-single-twist-pc-fan-screw-build-your-rig-in-record-time/"><u>Maximize Speed with Corsair's Innovative Single-Twist PC Fan Screw - Build Your Rig in Record Time!</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/quickdownload-tool-securely-fetch-xxx-movies-from-xxxymovies/"><u>QuickDownload Tool - Securely Fetch XXX Movies From XXXYMovies</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/save-your-favorite-showtime-series-as-video-files-mp4movavi-for-offline-viewing/"><u>Save Your Favorite Showtime Series as Video Files (MP4/MOV/AVI) for Offline Viewing</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-downloading-ultra-hd-360-videos-from-youtube-on-macos-and-windows-pcs/"><u>Step-by-Step Guide: Downloading Ultra HD 360° Videos From YouTube on macOS & Windows PCs</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/steps-for-securely-accessing-and-saving-mcgraw-hills-medical-educational-content/"><u>Steps for Securely Accessing and Saving McGraw-Hill's Medical Educational Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/workplace-changes-can-gpt-replace-humans/"><u>Workplace Changes: Can GPT Replace Humans?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/your-pathway-to-profit-the-most-straightforward-top-10-business-channels-on-youtube/"><u>Your Pathway to Profit The Most Straightforward Top 10 Business Channels on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/zoom-efficiency-top-three-strategies-for-format-finesse-for-2024/"><u>Zoom Efficiency Top Three Strategies for Format Finesse for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-commanders-quest-the-ultimate-list-of-total-war-classics/"><u>[New] 2024 Approved Commanders’ Quest The Ultimate List of Total War Classics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-flawless-filming-ipad-timelapse-techniques/"><u>[New] Flawless Filming IPad Timelapse Techniques</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-migrating-from-windows-server-201n-to-new-hardware-top-2-methods/"><u>1. Migrating From Windows Server 201N to New Hardware: Top 2 Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-scenes-of-twitch-live-broadcast-fundamentals/"><u>Behind the Scenes of Twitch: Live Broadcast Fundamentals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-instagram-stories-by-including-youtube-tracks/"><u>Enhancing Instagram Stories by Including YouTube Tracks</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/full-tutorial-how-to-use-paragon-hdd-manager-for-efficient-disk-imaging-and-duplication/"><u>Full Tutorial: How to Use Paragon HDD Manager for Efficient Disk Imaging and Duplication</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-set-up-network-adapters-using-the-control-panel-a-guide-by-yl-computing/"><u>How to Set Up Network Adapters Using the Control Panel - A Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-from-camera-to-feed-iphone-and-android-broadcast-guide-for-facebook/"><u>In 2024, From Camera to Feed IPhone & Android Broadcast Guide for Facebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-20-proplus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark 20 Pro+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/kostenlose-sicherungslosungen-fur-grossunternehmen-erfahre-mehr-uber-die-funktionen-von-aomei-cyber-backup/"><u>Kostenlose Sicherungslösungen Für Großunternehmen: Erfahre Mehr Über Die Funktionen Von AOMEI Cyber Backup</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-steam-server-connection-issues/"><u>Resolved: How to Fix Steam Server Connection Issues</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/resolvido-errores-en-la-creacion-de-copias-de-seguridad-incrementales-con-windows-server-backup/"><u>Resolvido: Errores en La Creación De Copias De Seguridad Incrementales Con Windows Server Backup</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/simplify-your-storage-management-with-auto-deleting-files-on-microsoft-onedrive/"><u>Simplify Your Storage Management with Auto-Deleting Files on Microsoft OneDrive</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/the-essentials-of-using-onekey-recovery-software-for-efficient-system-backups/"><u>The Essentials of Using OneKey Recovery Software for Efficient System Backups</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ultimate-techniques-for-effective-data-retrieval-on-toshiba-memory-cards/"><u>Ultimate Techniques for Effective Data Retrieval on Toshiba Memory Cards</u></a></li>
 </ul></div>
 
